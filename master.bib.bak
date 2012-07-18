@@ -71,6 +71,30 @@
   timestamp = {2012.06.20}
 }
 
+@ARTICLE{buhauggates02,
+  author = {Buhaug, Halvard and Gates, Scott},
+  title = {The Geogrpahy of Civil War},
+  journal = {Journal of Peace Research},
+  year = {2002},
+  volume = {39},
+  pages = {417-433},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.07.10}
+}
+
+@ARTICLE{buhauggleditsch08,
+  author = {Buhaug, Halvard and Gleditsch, Kristian Skrede},
+  title = {Contagion or Confusion? Why Conflicts Cluster in Space},
+  journal = {International Studies Quarterly},
+  year = {2008},
+  volume = {52},
+  pages = {215-233},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.07.10}
+}
+
 @ARTICLE{bull66,
   author = {Bull, Hedley},
   title = {International Theory: The Case for a Classical Approach},
@@ -223,6 +247,19 @@
   timestamp = {2012.06.25}
 }
 
+@ARTICLE{gilligan04,
+  author = {Gilligan, Michael J.},
+  title = {Is There a Broader-Deeper Trade-Off in International Multilateral
+	Agreements},
+  journal = {International Organization},
+  year = {2004},
+  volume = {58},
+  pages = {459-484},
+  number = {3},
+  owner = {david},
+  timestamp = {2012.07.10}
+}
+
 @ARTICLE{goldsteinetal00,
   author = {Goldstein, Judith L. and Kahler, Miles and Keohane, Robert O. and
 	Slaughter, Anne-Marie},
@@ -298,6 +335,18 @@
   timestamp = {2012.06.29}
 }
 
+@ARTICLE{kahler92,
+  author = {Kahler, Miles},
+  title = {Multilateralism with Small and Large Numbers},
+  journal = {International Organ},
+  year = {1992},
+  volume = {46},
+  pages = {681-708},
+  number = {3},
+  owner = {david},
+  timestamp = {2012.07.10}
+}
+
 @BOOK{keohane84,
   title = {After Hegemony: Cooperation and Discord in the World Political Economy},
   publisher = {Princeton University Press},
@@ -368,6 +417,29 @@
   address = {Ann Arbor},
   owner = {david},
   timestamp = {2012.07.03}
+}
+
+@ARTICLE{linkeetal12,
+  author = {Linke, Andrew and Witmer, Frank and O'Laughlin, John},
+  title = {Space-Time Granger Analysis of the War in Iraq: A Study of Coalition
+	and Insurgent Action-Reaction},
+  journal = {International Interactions},
+  year = {2012},
+  volume = {Forthcoming},
+  owner = {David},
+  timestamp = {2012.07.10}
+}
+
+@ARTICLE{lohmanflint10,
+  author = {Lohman, Andrew D. and Flint, Colin},
+  title = {The Geogrpahy of Insurgency},
+  journal = {Geography Compass},
+  year = {2010},
+  volume = {4},
+  pages = {1154-1166},
+  number = {8},
+  owner = {David},
+  timestamp = {2012.07.10}
 }
 
 @ARTICLE{lujalaetal05,
@@ -442,6 +514,41 @@
   number = {4},
   owner = {david},
   timestamp = {2012.07.06}
+}
+
+@ARTICLE{nugent92,
+  author = {Nugent, Neill},
+  title = {The Deeping and Widening of the European Community: Recent Evolution,
+	Maastricht, and Beyond},
+  journal = {Journal of Common Market Studies},
+  year = {1992},
+  volume = {30},
+  pages = {311-328},
+  number = {3},
+  owner = {david},
+  timestamp = {2012.07.10}
+}
+
+@BOOK{olson68,
+  title = {The Logic of Collective Action},
+  publisher = {Schocken},
+  year = {1968},
+  author = {Olson, Mancur},
+  address = {New York},
+  owner = {david},
+  timestamp = {2012.07.16}
+}
+
+@ARTICLE{pinder92,
+  author = {Pinder, John},
+  title = {The Future of the European Community: A Strategy for Enlargement},
+  journal = {Government and Opposition},
+  year = {1992},
+  volume = {27},
+  pages = {414-432},
+  number = {4},
+  owner = {david},
+  timestamp = {2012.07.10}
 }
 
 @ARTICLE{ross04,
@@ -577,6 +684,16 @@
   timestamp = {2012.06.14}
 }
 
+@BOOK{taylor87,
+  title = {The Possiblity of Cooperation},
+  publisher = {Cambridge University Press},
+  year = {1987},
+  author = {Taylor, Michael},
+  address = {Cambridge},
+  owner = {david},
+  timestamp = {2012.07.16}
+}
+
 @ARTICLE{trachtman99,
   author = {Trachtman, Joel P.},
   title = {Bananas, Direct Effect and Compliance},
@@ -597,6 +714,19 @@
   address = {New York},
   owner = {David},
   timestamp = {2012.07.08}
+}
+
+@ARTICLE{wendt01,
+  author = {Wendt, Alexander},
+  title = {Driving with the Rearview Mirror: On the Rational Science of Institutional
+	Design},
+  journal = {International Organi},
+  year = {2001},
+  volume = {55},
+  pages = {1019-1041},
+  number = {4},
+  owner = {david},
+  timestamp = {2012.07.16}
 }
 
 @ARTICLE{wiegandpowell11,
