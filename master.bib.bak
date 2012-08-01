@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.7b.
+% This file was created with JabRef 2.8.
 % Encoding: Cp1252
 
 @ARTICLE{abbottetal00,
@@ -26,6 +26,16 @@
   timestamp = {2012.06.14}
 }
 
+@BOOK{allisonzelikow99,
+  title = {Essence of Decision: Explaining the Cuban Missile Crisis},
+  publisher = {Longman},
+  year = {1999},
+  author = {Allison, Graham and Zelikow, Philip},
+  address = {New York},
+  owner = {david},
+  timestamp = {2012.07.30}
+}
+
 @ARTICLE{alter03,
   author = {Alter, Karen J.},
   title = {Resolving or Exacerbating Disputes? The WTO's New Dispute Resolution
@@ -37,6 +47,18 @@
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
+}
+
+@ARTICLE{ashley84,
+  author = {Ashley, Richard K.},
+  title = {The Poverty of Neorealism},
+  journal = {International Organization},
+  year = {1984},
+  volume = {38},
+  pages = {225-261; 275-281},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.07.24}
 }
 
 @BOOK{axelrod84,
@@ -73,7 +95,7 @@
 
 @ARTICLE{buhauggates02,
   author = {Buhaug, Halvard and Gates, Scott},
-  title = {The Geogrpahy of Civil War},
+  title = {The Geography of Civil War},
   journal = {Journal of Peace Research},
   year = {2002},
   volume = {39},
@@ -93,6 +115,16 @@
   number = {2},
   owner = {David},
   timestamp = {2012.07.10}
+}
+
+@BOOK{bull77,
+  title = {The Anarchical Society: A Study of Order in World Politics},
+  publisher = {Columbia University Press},
+  year = {1977},
+  author = {Bull, Hedley},
+  address = {New York},
+  owner = {david},
+  timestamp = {2012.07.30}
 }
 
 @ARTICLE{bull66,
@@ -117,6 +149,19 @@
   number = {4},
   owner = {David},
   timestamp = {2012.06.15}
+}
+
+@ARTICLE{caprioli05,
+  author = {Caprioli, Mary},
+  title = {Primed for Violence: The Role of Gender Inequality in Predicting
+	Internal Conflict},
+  journal = {International Studies Quarterly},
+  year = {2005},
+  volume = {49},
+  pages = {161-178},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.07.23}
 }
 
 @BOOK{carr46,
@@ -190,6 +235,19 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{davis04,
+  author = {Davis, Christina},
+  title = {International Institutions and Issue Linkage: Building Support for
+	Agricultural Trade Liberalization},
+  journal = {American Political Science Review},
+  year = {2004},
+  volume = {98},
+  pages = {153-169},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @ARTICLE{downsetal98,
   author = {Downs, George W. and Rocke, David M. and Barsoom, Peter M.},
   title = {Managing the Evolution of Multilateralism},
@@ -214,6 +272,43 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{fearon98,
+  author = {Fearon, James},
+  title = {Bargaining, Enforcement, and International Cooperation},
+  journal = {International Organization},
+  year = {1998},
+  volume = {52},
+  pages = {269-305},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
+@ARTICLE{finnemore93,
+  author = {Finnemore, Martha},
+  title = {International Organizations as Teachers of Norms: The United Nations
+	Educational, Scientific, and Cultural Organization and Science Policy},
+  journal = {International Organization},
+  year = {1993},
+  volume = {47},
+  pages = {565-597},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
+@ARTICLE{finnemoresikkink98,
+  author = {Finnemore, Martha and Sikkink, Kathryn},
+  title = {International Norm Dynamics and Political Change},
+  journal = {International Organization},
+  year = {1998},
+  volume = {52},
+  pages = {887-917},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @BOOK{foucault72,
   title = {The Archaeology of Knowledge and the Discourse on Language},
   publisher = {Pantheon Books},
@@ -233,6 +328,18 @@
   address = {New Haven, CT},
   owner = {David},
   timestamp = {2012.06.15}
+}
+
+@ARTICLE{gartzkegleditsch04,
+  author = {Gartzke, Eric and Gleditsch, Kristian Skrede},
+  title = {Why Democracies May Actually be Less Reliable Allies},
+  journal = {American Journal of Political Science},
+  year = {2004},
+  volume = {48},
+  pages = {775-795},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.01}
 }
 
 @ARTICLE{ghobarahetal03,
@@ -260,6 +367,32 @@
   timestamp = {2012.07.10}
 }
 
+@ARTICLE{gilligan06,
+  author = {Gilligan, Michael J.},
+  title = {Is Enforcement Necessary for Effectiveness? A Model of the International
+	Criminal Regime},
+  journal = {International Organization},
+  year = {200},
+  volume = {60},
+  pages = {935-967},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
+@ARTICLE{goldstein96,
+  author = {Goldstein, Juidth},
+  title = {International Law and Domestic Institutions: Reconciling North American
+	"Unfair" Trade Laws},
+  journal = {International Organization},
+  year = {1996},
+  volume = {50},
+  pages = {541-564},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @ARTICLE{goldsteinetal00,
   author = {Goldstein, Judith L. and Kahler, Miles and Keohane, Robert O. and
 	Slaughter, Anne-Marie},
@@ -273,6 +406,19 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{griecoetal09,
+  author = {Grieco, Joseph M. and Gelpi, Christopher F. and Warren, Camber T.},
+  title = {When Preferences and Commitments Collide: The Effect of Relative
+	Partisan Shifts on International Treaty Compliance},
+  journal = {International Organization},
+  year = {2009},
+  volume = {63},
+  pages = {341-355},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @ARTICLE{guetzkow1950,
   author = {Guetzkow, Harold},
   title = {Long Range Research in International Relations},
@@ -283,6 +429,16 @@
   number = {Fall},
   owner = {David},
   timestamp = {2012.06.12}
+}
+
+@BOOK{hardin82,
+  title = {Collective Action},
+  publisher = {Johns Hopkins University Press},
+  year = {1982},
+  author = {Hardin, Russell},
+  address = {Baltimore},
+  owner = {david},
+  timestamp = {2012.07.16}
 }
 
 @ARTICLE{herz50,
@@ -369,6 +525,28 @@
   timestamp = {2012.06.15}
 }
 
+@BOOK{keohanenye77,
+  title = {Power and Interdependence: World Politics in Transition},
+  publisher = {Little, Brown and Company},
+  year = {1977},
+  author = {Keohane, Robert O. and Nye, Joseph S.},
+  address = {Boston},
+  owner = {david},
+  timestamp = {2012.07.30}
+}
+
+@ARTICLE{kindleberger75,
+  author = {Kindleberger, Charles P.},
+  title = {The Rise of Free Trade in Western Europe, 1820-1875},
+  journal = {Journal of Economic History},
+  year = {1975},
+  volume = {35},
+  pages = {20-55},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @ARTICLE{koremenosetal01,
   author = {Koremenos, Barbara and Lipson, Charles and Snidal, Duncan},
   title = {The Rational Design of International Institutions},
@@ -381,6 +559,18 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{krasner91,
+  author = {Krasner, Stephen D.},
+  title = {Global Communications and National Power: Life on the Pareto Frontier},
+  journal = {World Politics},
+  year = {1991},
+  volume = {43},
+  pages = {336-366},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @ARTICLE{lacina06,
   author = {Lacina, Bethany},
   title = {Explaining the Severity of Civil Wars},
@@ -391,6 +581,28 @@
   number = {2},
   owner = {David},
   timestamp = {2012.06.25}
+}
+
+@BOOK{lake09,
+  title = {Hierarchy in International Relations},
+  publisher = {Cornell University Press},
+  year = {2009},
+  author = {Lake, David A.},
+  address = {Ithaca, NY},
+  owner = {david},
+  timestamp = {2012.07.30}
+}
+
+@ARTICLE{leedsetal09,
+  author = {Leeds, Brett Ashley and Mattes, Micheal and Vogel, Jeremy S.},
+  title = {Interests, Institutions, and the Reliability of International Commitments},
+  journal = {American Journal of Political Science},
+  year = {2009},
+  volume = {53},
+  pages = {461-476},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.01}
 }
 
 @ARTICLE{lewisbeckalford80,
@@ -442,6 +654,18 @@
   timestamp = {2012.07.10}
 }
 
+@ARTICLE{lohmann97,
+  author = {Lohmann, Susanne},
+  title = {Linkage Politics},
+  journal = {Journal of Conflict Resolution},
+  year = {1997},
+  volume = {41},
+  pages = {38-68},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.01}
+}
+
 @ARTICLE{lujalaetal05,
   author = {Lujala, Paivi and Gleditsch, Nils Petter and Gilmore, Elizabeth},
   title = {A Diamond Curse? Civil War and a Lootable Resource},
@@ -480,6 +704,30 @@
   timestamp = {2012.06.15}
 }
 
+@ARTICLE{melander05,
+  author = {Melander, Erik},
+  title = {Gender Inequality and Intrastate Armed Conflict},
+  journal = {International Studies Quarterly},
+  year = {2005},
+  volume = {49},
+  pages = {695-714},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.07.23}
+}
+
+@ARTICLE{milner91,
+  author = {Milner, Helen},
+  title = {The Assumption of Anarchy in International Relations Theory: A Critique},
+  journal = {Review of International Studies},
+  year = {1991},
+  volume = {17},
+  pages = {67-85},
+  number = {1},
+  owner = {david},
+  timestamp = {2012.07.30}
+}
+
 @ARTICLE{mitchell94,
   author = {Mitchell, Ronald B.},
   title = {Regime Design Matters: International Oil Pollution and Treaty Compliance},
@@ -493,7 +741,7 @@
 }
 
 @BOOK{morgenthau93,
-  title = {Politics Among Natoins: The Struggle for Power and Peace},
+  title = {Politics Among Nations: The Struggle for Power and Peace},
   publisher = {McGraw-Hill},
   year = {1993},
   author = {Morgenthau, Hans J.},
@@ -518,7 +766,7 @@
 
 @ARTICLE{nugent92,
   author = {Nugent, Neill},
-  title = {The Deeping and Widening of the European Community: Recent Evolution,
+  title = {The Deepening and Widening of the European Community: Recent Evolution,
 	Maastricht, and Beyond},
   journal = {Journal of Common Market Studies},
   year = {1992},
@@ -527,6 +775,19 @@
   number = {3},
   owner = {david},
   timestamp = {2012.07.10}
+}
+
+@ARTICLE{oatleynabors98,
+  author = {Oatley, Thomas and Nabors, Robert},
+  title = {Redistributive Cooperation: Market Failure, Wealth Transfers, and
+	the Basle Accord},
+  journal = {International Organization},
+  year = {1998},
+  volume = {52},
+  pages = {35-54},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.01}
 }
 
 @BOOK{olson68,
@@ -562,6 +823,19 @@
   number = {1},
   owner = {david},
   timestamp = {2012.07.03}
+}
+
+@ARTICLE{ruggie83,
+  author = {Ruggie, John Gerard},
+  title = {Continuity and Transformation in the World Polity: Toward a Neorealist
+	Synthesis},
+  journal = {World Politics},
+  year = {1983},
+  volume = {35},
+  pages = {261-285},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.07.24}
 }
 
 @ARTICLE{sambanis04,
@@ -638,7 +912,7 @@
 @ARTICLE{staniland12,
   author = {Staniland, Paul},
   title = {States, Insurgents, and Wartime Political Orders},
-  journal = {Perpsectives on Politics},
+  journal = {Perspectives on Politics},
   year = {2012},
   volume = {10},
   pages = {243-264},
@@ -675,7 +949,7 @@
   author = {Steinberg, Richard H.},
   title = {In the Shadow of Law or Power? Consensus-Based Bargaining in the
 	GATT/WTO},
-  journal = {International Orga},
+  journal = {International Organization},
   year = {2002},
   volume = {56},
   pages = {339-374},
@@ -685,13 +959,26 @@
 }
 
 @BOOK{taylor87,
-  title = {The Possiblity of Cooperation},
+  title = {The Possibility of Cooperation},
   publisher = {Cambridge University Press},
   year = {1987},
   author = {Taylor, Michael},
   address = {Cambridge},
   owner = {david},
   timestamp = {2012.07.16}
+}
+
+@ARTICLE{thompson06,
+  author = {Thompson, Alexander},
+  title = {Coercion Through IOs: The Security Council and the Logic of Information
+	Transmission},
+  journal = {International Organization},
+  year = {2006},
+  volume = {60},
+  pages = {1-34},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.01}
 }
 
 @ARTICLE{trachtman99,
@@ -704,6 +991,16 @@
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
+}
+
+@BOOK{waltz79,
+  title = {Theory of International Politics},
+  publisher = {McGraw-Hill},
+  year = {1979},
+  author = {Waltz, Kenneth N.},
+  address = {Boston},
+  owner = {David},
+  timestamp = {2012.07.24}
 }
 
 @BOOK{waltz59,
@@ -720,7 +1017,7 @@
   author = {Wendt, Alexander},
   title = {Driving with the Rearview Mirror: On the Rational Science of Institutional
 	Design},
-  journal = {International Organi},
+  journal = {International Organization},
   year = {2001},
   volume = {55},
   pages = {1019-1041},
@@ -754,6 +1051,18 @@
   timestamp = {2012.07.06}
 }
 
+@ARTICLE{wood06,
+  author = {Wood, Elizabeth},
+  title = {Variation in Sexual Violence During War},
+  journal = {Politics and Society},
+  year = {2006},
+  volume = {34},
+  pages = {307-342},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.07.23}
+}
+
 @ARTICLE{zangl08,
   author = {Zangl, Bernard},
   title = {Judicialization Matters! A Comparison of Dispute Settlement Under
@@ -765,6 +1074,16 @@
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
+}
+
+@BOOK{keohane86,
+  title = {Neorealism and its Critics},
+  publisher = {Columbia University Press},
+  year = {1986},
+  editor = {Keohane, Robert O.},
+  address = {New York},
+  owner = {David},
+  timestamp = {2012.07.24}
 }
 
 @comment{jabref-meta: selector_review:}
