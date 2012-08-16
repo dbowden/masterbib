@@ -26,6 +26,19 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{adler92,
+  author = {Adler, Emmanuel},
+  title = {The Emergence of Cooperation: National Epistemic Communities and
+	the International Evolution of the Idea of Nuclear Arms Control},
+  journal = {International Organization},
+  year = {1992},
+  volume = {46},
+  pages = {101-145},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{aldrich06,
   author = {Aldrich, John H. and Gelpi, Christopher F. and Feaver, Peter and
 	Reifler, Jason, and Thompson, Kristin},
@@ -36,6 +49,32 @@
   pages = {477-502},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{alleehuth06,
+  author = {Allee, Todd L. and Huth, Paul K.},
+  title = {Legitimizing Dispute Settlement: International Legal Rulings as Domestic
+	Political Cover},
+  journal = {The American Political Science Review},
+  year = {2006},
+  volume = {100},
+  pages = {219-234},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
+@ARTICLE{alleescalera12,
+  author = {Allee, Todd L. and Scalera, Jamie E.},
+  title = {The Divergent Effects of Joining International Organizations: Trade
+	Gains and the Rigors of WTO Accession},
+  journal = {International Organization},
+  year = {2012},
+  volume = {66},
+  pages = {243-276},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.13}
 }
 
 @BOOK{allisonzelikow99,
@@ -61,6 +100,19 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{alter00,
+  author = {Alter, Karen J.},
+  title = {The European Union's Legal System and Domestic Policy: Spillover
+	or Backlash?},
+  journal = {International Organization},
+  year = {2000},
+  volume = {54},
+  pages = {489-518},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{ashley84,
   author = {Ashley, Richard K.},
   title = {The Poverty of Neorealism},
@@ -83,8 +135,21 @@
   timestamp = {2012.06.15}
 }
 
+@ARTICLE{battigbernauer09,
+  author = {B\"{a}ttig, Michele B. and Bernauer, Thomas},
+  title = {National Institutions and Global Public Goods: Are Democracies More
+	Cooperative in Climate Change Policy?},
+  journal = {International Organization},
+  year = {2009},
+  volume = {63},
+  pages = {281-308},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{buthef,
-  author = {B\"{u}the, Tim and Major, Solomon and de Mello e Souza, Andr\'{e}},
+  author = {B\"{u}the, Tim and Major, Solomon and de Mello e Souza, Andre},
   title = {The Politics of Private Foreign Aid: Humanitarian Principles, Economic
 	Development Objectives, and Organizational Interests in the Allocation
 	of Private Aid by NGOs},
@@ -128,6 +193,18 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{boehmeretal04,
+  author = {Boehmer, Charles and Gartzke, Erik and Nordstrom, Timothy},
+  title = {Do Intergovernmental Organizations Promote Peace?},
+  journal = {World Politics},
+  year = {2004},
+  volume = {57},
+  pages = {1-38},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @BOOK{boxjenkins76,
   title = {Time Series Analysis, Forecasting, and Control},
   publisher = {Holden Day},
@@ -138,10 +215,22 @@
   timestamp = {2012.06.20}
 }
 
+@ARTICLE{brochmanhensel11,
+  author = {Brochman, Marit and Hensel, Paul R.},
+  title = {The Effectiveness of Negotiations over International River Claims},
+  journal = {International Studies Quarterly},
+  year = {2011},
+  volume = {55},
+  pages = {859-882},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.14}
+}
+
 @ARTICLE{bdm90,
   author = {Bueno de Mesquita, Bruce and Lalman, David},
   title = {Domestic Opposition and Foreign War},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1990},
   volume = {84},
   pages = {747-765},
@@ -154,7 +243,7 @@
   author = {Bueno de Mesquita, Bruce and Morrow, James D. and Siverson, Randolph
 	M. and Smith, Alastair},
   title = {An Institutional Explanation of the Democratic Peace},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1999},
   volume = {93},
   pages = {791-807},
@@ -290,6 +379,18 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{christensensnyder90,
+  author = {Christensen, Thomas J. and Snyder, Jack},
+  title = {Chain Gangs and Passed Bucks: Predicting Alliance Patterns in Multpolarity},
+  journal = {International Organization},
+  year = {1990},
+  volume = {44},
+  pages = {137-168},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.15}
+}
+
 @ARTICLE{clarkeprimo07,
   author = {Clarke, Kevin A. and Primo, David M.},
   title = {Modernizing Political Science: A Model-Based Approach},
@@ -339,7 +440,7 @@
   author = {Cox, Robert W.},
   title = {Social Forces, States and World Orders: Beyond International Relations
 	Theory},
-  journal = {Millenium},
+  journal = {Millennium},
   year = {1981},
   volume = {10},
   pages = {126-155},
@@ -383,17 +484,39 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{dai06,
+  author = {Dai, Xinyuan},
+  title = {The Conditional Nature of Democratic Compliance},
+  journal = {Journal of Conflict Resolution},
+  year = {200},
+  volume = {50},
+  pages = {690-713},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{davis04,
   author = {Davis, Christina},
   title = {International Institutions and Issue Linkage: Building Support for
 	Agricultural Trade Liberalization},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {2004},
   volume = {98},
   pages = {153-169},
   number = {1},
   owner = {David},
   timestamp = {2012.08.01}
+}
+
+@BOOK{deutschetal57,
+  title = {Political Community and the North Atlantic Area: International Organization
+	in Light of Historical Experience},
+  publisher = {Princeton University Press},
+  year = {1957},
+  author = {Deutsch, Karl W. and Burrell, Sidney A. and Kann, Robert A.},
+  owner = {David},
+  timestamp = {2012.08.15}
 }
 
 @BOOK{diehlku10,
@@ -455,6 +578,19 @@
   timestamp = {2012.08.01}
 }
 
+@ARTICLE{fearon1994b,
+  author = {Fearon, James},
+  title = {Domestic Political Audiences and the Escalation of International
+	Disputes},
+  journal = {The American Political Science Review},
+  year = {1994},
+  volume = {88},
+  pages = {577-592},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{fearon95,
   author = {Fearon, James D.},
   title = {Rationalist Explanations of War},
@@ -467,7 +603,7 @@
   timestamp = {2012.08.12}
 }
 
-@ARTICLE{fearon94,
+@ARTICLE{fearon94a,
   author = {Fearon, James D.},
   title = {Signaling versus the Balance of Power and Interests: An Empirical
 	Test of a Crisis Bargaining Model},
@@ -483,7 +619,7 @@
 @ARTICLE{fearonlaitin96,
   author = {Fearon, James D. and Laitin, David D.},
   title = {Explaining Interethnic Cooperation},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1996},
   volume = {90},
   pages = {715-736},
@@ -540,6 +676,18 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{fortna03,
+  author = {Fortna, Virginia Page},
+  title = {Scraps of Paper? Agreements and the Durability of Peace},
+  journal = {International Organization},
+  year = {2003},
+  volume = {57},
+  pages = {337-372},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @BOOK{foucault72,
   title = {The Archaeology of Knowledge and the Discourse on Language},
   publisher = {Pantheon Books},
@@ -587,7 +735,7 @@
 @ARTICLE{ghobarahetal03,
   author = {Ghobarah, Hazem Adam and Huth, Paul and Russett, Bruce},
   title = {Civil Wars Kill and Maim People---Long After the Shooting Stops},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {200},
   volume = {97},
   pages = {189-202},
@@ -608,6 +756,19 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{Gilligan2006,
+  author = {Gilligan, Michael J.},
+  title = {Is Enforcement Necessary for Effectiveness? A Model of the International
+	Criminal Regime},
+  journal = {International Organization},
+  year = {2006},
+  volume = {60},
+  pages = {935-967},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @ARTICLE{gilligan04,
   author = {Gilligan, Michael J.},
   title = {Is There a Broader-Deeper Trade-Off in International Multilateral
@@ -619,19 +780,6 @@
   number = {3},
   owner = {david},
   timestamp = {2012.07.10}
-}
-
-@ARTICLE{gilligan06,
-  author = {Gilligan, Michael J.},
-  title = {Is Enforcement Necessary for Effectiveness? A Model of the International
-	Criminal Regime},
-  journal = {International Organization},
-  year = {200},
-  volume = {60},
-  pages = {935-967},
-  number = {4},
-  owner = {David},
-  timestamp = {2012.08.01}
 }
 
 @BOOK{gilpin81,
@@ -656,7 +804,7 @@
 }
 
 @ARTICLE{goldstein96,
-  author = {Goldstein, Juidth},
+  author = {Goldstein, Judith},
   title = {International Law and Domestic Institutions: Reconciling North American
 	"Unfair" Trade Laws},
   journal = {International Organization},
@@ -679,6 +827,19 @@
   number = {3},
   owner = {David},
   timestamp = {2012.06.14}
+}
+
+@ARTICLE{goldsteinetal07,
+  author = {Goldstein, Judith L. and Rivers, Douglas and Tomz, Michael},
+  title = {Institutions in International Relations: Understanding the Effects
+	of the GATT and the WTO on World Trade},
+  journal = {International Organization},
+  year = {2007},
+  volume = {61},
+  pages = {37-67},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.13}
 }
 
 @ARTICLE{grieco88,
@@ -719,10 +880,22 @@
   timestamp = {2012.06.12}
 }
 
+@ARTICLE{haas53,
+  author = {Haas, Ernst B.},
+  title = {The Balance of Power: Prescription, Concept, or Propaganda?},
+  journal = {World Politics},
+  year = {1953},
+  volume = {5},
+  pages = {442-477},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.15}
+}
+
 @ARTICLE{haas92,
   author = {Haas, Peter M.},
-  title = {Banning Chloroflourocarbons: Epistemic Community Efforts to Protect
-	Stratospheric Ozon},
+  title = {Banning Chlorofluorocarbons: Epistemic Community Efforts to Protect
+	Stratospheric Ozone},
   journal = {International Organization},
   year = {1992},
   volume = {46},
@@ -736,7 +909,7 @@
   author = {Hainmueller, Jens and Hiscox, Michael J.},
   title = {Attitudes Toward Highly Skilled and Low-Skilled Immigration: Evidence
 	from a Survey Experiment},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {2010},
   volume = {104},
   pages = {61-84},
@@ -758,6 +931,31 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{hansenetal08,
+  author = {Hansen, Holly and Mitchell, Sara McLaughlin and Nemeth, Stephen},
+  title = {IO Mediation of Interstate Conflicts: Moving Beyond the Global versus
+	Regional Dichotomy},
+  journal = {Journal of Conflict Resolution},
+  year = {2008},
+  volume = {52},
+  pages = {295-325},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.14}
+}
+
+@ARTICLE{hardin68,
+  author = {Hardin, Garrett},
+  title = {The Tragedy of the Commons},
+  journal = {Science},
+  year = {1968},
+  volume = {162},
+  pages = {1243-1248},
+  number = {3859},
+  owner = {David},
+  timestamp = {2012.08.12}
+}
+
 @BOOK{hardin82,
   title = {Collective Action},
   publisher = {Johns Hopkins University Press},
@@ -769,7 +967,7 @@
 }
 
 @ARTICLE{harstad07,
-  author = {Harstad, B\h{a}rd},
+  author = {Harstad, B\aard},
   title = {Harmonization and Side Payments in Political Cooperation},
   journal = {American Economic Review},
   year = {2007},
@@ -870,7 +1068,7 @@
 }
 
 @ARTICLE{hug02,
-  author = {Hug, Simon and K\"{o}nig, Thomas},
+  author = {Hug, Simon and Konig, Thomas},
   title = {In View of Ratification: Governmental Preferences and Domestic Constraints
 	at the Amsterdam Intergovernmental Conference},
   journal = {International Organization},
@@ -885,7 +1083,7 @@
 @ARTICLE{huth88,
   author = {Huth, Paul K.},
   title = {Extended Deterrence and the Outbreak of War},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1988},
   volume = {82},
   pages = {423-443},
@@ -899,7 +1097,7 @@
   title = {Does International Law Promote the Peaceful Settlement of Territorial
 	Disputes? Evidence from the Study of Territorial Conflicts since
 	1945},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {2011},
   volume = {105},
   pages = {415-436},
@@ -918,6 +1116,19 @@
   number = {2},
   owner = {David},
   timestamp = {2012.06.14}
+}
+
+@ARTICLE{iida93,
+  author = {Iida, Kosuke},
+  title = {When and How Do Domestic Constraints Matter? Two-Level Games with
+	Uncertainty},
+  journal = {Journal of Conflict Resolution},
+  year = {1993},
+  volume = {37},
+  pages = {403-426},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.16}
 }
 
 @ARTICLE{jervis78,
@@ -1058,6 +1269,18 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{kono06,
+  author = {Kono, Daniel Y.},
+  title = {Optimal Obfuscation: Democracy and Trade Policy Transparency},
+  journal = {The American Political Science Review},
+  year = {2006},
+  volume = {100},
+  pages = {369-384},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{koremenosetal01,
   author = {Koremenos, Barbara and Lipson, Charles and Snidal, Duncan},
   title = {The Rational Design of International Institutions},
@@ -1176,7 +1399,7 @@
 }
 
 @ARTICLE{leventoglu08,
-  author = {Levento\v{g}lu, Bahar and Tarar, Ahmer},
+  author = {Levento\u{g}lu, Bahar and Tarar, Ahmer},
   title = {Does Private Information Lead to Delay or War in Crisis Bargaining?},
   journal = {International Studies Quarterly},
   year = {2008},
@@ -1190,7 +1413,7 @@
 @ARTICLE{lewisbeckalford80,
   author = {Lewis-Beck, Michael S. and Alford, John R.},
   title = {Can Government Regulate Safety? The Coal Mine Example},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1980},
   volume = {74},
   pages = {745-756},
@@ -1224,6 +1447,18 @@
   timestamp = {2012.07.10}
 }
 
+@ARTICLE{lipson84,
+  author = {Lipson, Charles},
+  title = {International Cooperation in Security and Economic Affairs},
+  journal = {World Politics},
+  year = {1984},
+  volume = {37},
+  pages = {1-23},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @ARTICLE{lohmanflint10,
   author = {Lohman, Andrew D. and Flint, Colin},
   title = {The Geogrpahy of Insurgency},
@@ -1248,6 +1483,18 @@
   timestamp = {2012.08.01}
 }
 
+@ARTICLE{lohmannohalloran94,
+  author = {Lohmann, Susanne and O'Halloran, Sharyn},
+  title = {Divided Government and U.S. Trade Policy: Theory and Evidence},
+  journal = {International Organization},
+  year = {1994},
+  volume = {48},
+  pages = {595-632},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{lujalaetal05,
   author = {Lujala, Paivi and Gleditsch, Nils Petter and Gilmore, Elizabeth},
   title = {A Diamond Curse? Civil War and a Lootable Resource},
@@ -1270,6 +1517,30 @@
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{mansfieldpevehouse06,
+  author = {Mansfield, Edward D. and Pevehouse, Jon C.},
+  title = {Democratization and Internatoinal Organizations},
+  journal = {International Organization},
+  year = {2006},
+  volume = {60},
+  pages = {137-167},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
+@ARTICLE{maozrussett93,
+  author = {Maoz, Zeev and Russett, Bruce},
+  title = {Normative and Structural Causes of Democratic Peace, 1946-1986},
+  journal = {The American Political Science Review},
+  year = {1993},
+  volume = {87},
+  pages = {624-638},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.14}
 }
 
 @ARTICLE{matilla01,
@@ -1467,6 +1738,19 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{mo95,
+  author = {Mo, Jongryn},
+  title = {Domestic Institutions and International Bargaining: The Role of Agent
+	Veto in Two-Level Games},
+  journal = {The American Political Science Review},
+  year = {1995},
+  volume = {89},
+  pages = {914-924},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{moravcsik97,
   author = {Moravcsik, Andrew},
   title = {Taking Preferences Seriously: A Liberal Theory of International Politics},
@@ -1494,7 +1778,7 @@
 @ARTICLE{morgenthau52,
   author = {Morgenthau, Hans J.},
   title = {Another 'Great Debate': The National Interest of the United States},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1952},
   volume = {46},
   pages = {961-978},
@@ -1503,8 +1787,20 @@
   timestamp = {2012.07.06}
 }
 
+@ARTICLE{morrow07,
+  author = {Morrow, James D.},
+  title = {When Do States Follow the Laws of War?},
+  journal = {The American Political Science Review},
+  year = {2007},
+  volume = {101},
+  pages = {559-572},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @BOOK{moststarr89,
-  title = {Inquiry, Logica and International Politics},
+  title = {Inquiry, Logic and International Politics},
   publisher = {University of South Carolina Press},
   year = {1989},
   author = {Most, Benjamin A. and Starr, Harvey},
@@ -1575,8 +1871,8 @@
 
 @ARTICLE{oren09,
   author = {Oren, Ido},
-  title = {The Unrealism of Contemporary Relaism: The Tension Between Realist
-	Theory and Relalists' Practice},
+  title = {The Unrealism of Contemporary Realism: The Tension Between Realist
+	Theory and Realists' Practice},
   journal = {Perspectives on Politics},
   year = {2009},
   volume = {7},
@@ -1661,6 +1957,40 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{pevehouserussett06,
+  author = {Pevehouse, Jon and Russett, Bruce},
+  title = {Democratic Intergovernmental Organizations Promote Peace},
+  journal = {International Organization},
+  year = {2006},
+  volume = {60},
+  pages = {969-1000},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
+@BOOK{pevehouse06,
+  title = {Democracy from Above: Regional Organizations and Democratization},
+  publisher = {Cambridge University Press},
+  year = {2006},
+  author = {Pevehouse, Jon C.},
+  address = {Cambridge},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
+@ARTICLE{pevehouse02,
+  author = {Pevehouse, Jon C.},
+  title = {Democracy from the Outside-In? International Organizations and Democratization},
+  journal = {International Organization},
+  year = {2002},
+  volume = {56},
+  pages = {515-549},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{pinder92,
   author = {Pinder, John},
   title = {The Future of the European Community: A Strategy for Enlargement},
@@ -1673,10 +2003,22 @@
   timestamp = {2012.07.10}
 }
 
+@ARTICLE{powellstaton09,
+  author = {Powell, Emilia Justyna and Staton, Jeffrey K.},
+  title = {Domestic Judicial Institutions and Human Rights Treaty Violation},
+  journal = {International Studies Quarterly},
+  year = {2009},
+  volume = {53},
+  pages = {149-174},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{powell93,
   author = {Powell, Robert},
   title = {Guns, Butter, and Anarchy},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1993},
   volume = {87},
   pages = {115-132},
@@ -1688,7 +2030,7 @@
 @ARTICLE{przeworski88,
   author = {Przeworski, Adam and Wallerstein, Michael},
   title = {Structural Dependence of the State on Capital},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1988},
   volume = {82},
   pages = {11-29},
@@ -1792,6 +2134,19 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{saiegh05,
+  author = {Saiegh, Sebastian M.},
+  title = {Do Countries Have a ``Democratic Advantage"? Political Institutions,
+	Multilateral Agencies, and Sovereign Borrowing},
+  journal = {Comparative Political Studies},
+  year = {2005},
+  volume = {38},
+  pages = {366-387},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
 @ARTICLE{sambanis04,
   author = {Sambanis, Nicholas},
   title = {Conceptual and Empirical Complexities of an Operational Definition},
@@ -1817,18 +2172,6 @@
   timestamp = {2012.06.18}
 }
 
-@ARTICLE{,
-  author = {Sandler, Todd and Forbes, J.F.},
-  title = {Burden Sharing, Strategy, and the Design of NATO},
-  journal = {Economic Inquiry},
-  year = {1980},
-  volume = {425-444},
-  pages = {18},
-  __markedentry = {},
-  owner = {David},
-  timestamp = {2012.08.12}
-}
-
 @BOOK{schelling66,
   title = {Arms and Influence},
   publisher = {Yale University Press},
@@ -1847,6 +2190,55 @@
   address = {Cambridge, MA},
   owner = {David},
   timestamp = {2012.06.15}
+}
+
+@ARTICLE{schroeder94,
+  author = {Schroeder, Paul},
+  title = {Historical Reality vs. Neo-Realist Theory},
+  journal = {International Security},
+  year = {1994},
+  volume = {19},
+  pages = {108-148},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.15}
+}
+
+@ARTICLE{schultz99,
+  author = {Schultz, Kenneth},
+  title = {Do Democratic Institutions Constrain or Inform? Contrasting Two Institutional
+	Perspectives on Democracy and War},
+  journal = {International Organization},
+  year = {1999},
+  volume = {53},
+  pages = {233-266},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
+@ARTICLE{schultz98,
+  author = {Schultz, Kenneth},
+  title = {Domestic Opposition and Signaling in International Crises},
+  journal = {The American Political Science Review},
+  year = {1998},
+  volume = {92},
+  pages = {829-844},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.16}
+}
+
+@ARTICLE{schweller94,
+  author = {Schweller, Randall L.},
+  title = {Bandwagoning for Profit: Bringing the Revisionist State Back In},
+  journal = {International Security},
+  year = {1994},
+  volume = {19},
+  pages = {72-107},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.15}
 }
 
 @BOOK{senesevasquez08,
@@ -1870,6 +2262,19 @@
   timestamp = {2012.06.15}
 }
 
+@ARTICLE{shannonetal10,
+  author = {Shannon, Megan and Morey, Daniel and Boehmke, Frederick J.},
+  title = {The Influence of International Organizations on Militarized Interstate
+	Dispute Initiation and Duration},
+  journal = {International Studies Quarterly},
+  year = {2010},
+  volume = {54},
+  pages = {1123-1141},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @ARTICLE{sigalas10,
   author = {Sigalas, Emmanuel},
   title = {Cross-border Mobility and European Identity: The Effectiveness of
@@ -1887,7 +2292,7 @@
   author = {Signorino, Curtis S.},
   title = {Strategic Interaction and the Statistical Analysis of International
 	Conflict},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {1999},
   volume = {93},
   pages = {279-297},
@@ -1946,7 +2351,7 @@
   author = {Simmons, Beth A. and Elkins, Zachary},
   title = {The Globalization of Liberalization: Policy Diffusion in the International
 	Political Economy},
-  journal = {American Political Science Review},
+  journal = {The American Political Science Review},
   year = {98},
   volume = {98},
   pages = {171-189},
@@ -2064,6 +2469,17 @@
   timestamp = {2012.08.12}
 }
 
+@BOOK{thompson09,
+  title = {Channels of Power: The UN Security Council and U.S. Statecraft in
+	Iraq},
+  publisher = {Cornell University Press},
+  year = {2009},
+  author = {Thompson, Alexander},
+  address = {Ithaca},
+  owner = {David},
+  timestamp = {2012.08.13}
+}
+
 @ARTICLE{thompson06,
   author = {Thompson, Alexander},
   title = {Coercion Through IOs: The Security Council and the Logic of Information
@@ -2097,6 +2513,20 @@
   address = {Cambridge},
   owner = {David},
   timestamp = {2012.08.10}
+}
+
+@ARTICLE{vasquez97,
+  author = {Vasquez, John A.},
+  title = {The Realist Paradigm and Degenerative versus Progressive Research
+	Programs: An Appraisal of Neotraditoinal Research on Waltz's Balancing
+	Proposition},
+  journal = {The American Political Science Review},
+  year = {1997},
+  volume = {91},
+  pages = {899-912},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.08.15}
 }
 
 @ARTICLE{vinci08,
@@ -2135,6 +2565,16 @@
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@BOOK{walt87,
+  title = {The Origins of Alliances},
+  publisher = {Cornell University Press},
+  year = {1987},
+  author = {Walt, Stephen M.},
+  address = {Ithaca, NY},
+  owner = {David},
+  timestamp = {2012.08.15}
 }
 
 @BOOK{waltz79,
