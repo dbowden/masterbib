@@ -113,6 +113,19 @@
   timestamp = {2012.08.16}
 }
 
+@ARTICLE{althausetal12,
+  author = {Althaus, Scott L. and Bramlett, Brittany H. and Gimpel, James G.},
+  title = {When War Hits Home: The Geography of Military Losses and Support
+	for War in Time and Space},
+  journal = {Journal of Conflict Resolution},
+  year = {2012},
+  volume = {56},
+  pages = {382-412},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @ARTICLE{ashley84,
   author = {Ashley, Richard K.},
   title = {The Poverty of Neorealism},
@@ -215,6 +228,19 @@
   number = {1},
   owner = {David},
   timestamp = {2012.08.13}
+}
+
+@ARTICLE{boettchercobb09,
+  author = {Boettcher III, William A. and Cobb, Michael D.},
+  title = {'Don't Let Them Die in Vain': Casualty Frames and Public Tolerance
+	for Escalating Commitment in Iraq},
+  journal = {Journal of Conflict Resolution},
+  year = {2009},
+  volume = {53},
+  pages = {677-697},
+  number = {5},
+  owner = {David},
+  timestamp = {2012.08.23}
 }
 
 @BOOK{boxjenkins76,
@@ -541,6 +567,16 @@
   timestamp = {2012.08.15}
 }
 
+@BOOK{diehlgoertz01,
+  title = {War and Peace in International Rivalry},
+  publisher = {University of Michigan Press},
+  year = {2001},
+  author = {Diehl, Paul F. and Goertz, Gary},
+  address = {Cambridge},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @BOOK{diehlku10,
   title = {The Dynamics of International Law},
   publisher = {Cambridge University Press},
@@ -588,6 +624,17 @@
   timestamp = {2012.06.14}
 }
 
+@ARTICLE{ethier01,
+  author = {Ethier, Wilfred J.},
+  title = {Theoretical Problems in Negotiating Trade Liberalization},
+  journal = {European Journal of Political Economy},
+  year = {2001},
+  volume = {17},
+  pages = {209-232},
+  owner = {David},
+  timestamp = {2012.09.02}
+}
+
 @ARTICLE{fang08,
   author = {Fang, Songying},
   title = {The Informational Role of International Institutions and Domestic
@@ -613,7 +660,7 @@
   timestamp = {2012.08.01}
 }
 
-@ARTICLE{fearon1994b,
+@ARTICLE{fearon94b,
   author = {Fearon, James},
   title = {Domestic Political Audiences and the Escalation of International
 	Disputes},
@@ -774,6 +821,19 @@
   number = {2},
   owner = {David},
   timestamp = {2012.08.19}
+}
+
+@ARTICLE{gartner11,
+  author = {Gartner, Scott S.},
+  title = {On Behalf of a Greatful Nation: Conventionalized Images of Loss and
+	Individual Opinion Change in War},
+  journal = {International Studies Quarterly},
+  year = {2011},
+  volume = {55},
+  pages = {545-561},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.23}
 }
 
 @ARTICLE{gartzkegleditsch04,
@@ -982,6 +1042,16 @@
   timestamp = {2012.06.12}
 }
 
+@BOOK{gurr70,
+  title = {Why Men Rebel},
+  publisher = {Princeton University Press},
+  year = {1970},
+  author = {Gurr, Ted Robert},
+  address = {Princeton, NJ},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @BOOK{guzman08,
   title = {How International Law Works},
   publisher = {Oxford University Press},
@@ -1141,6 +1211,19 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{hensel96,
+  author = {Hensel, Paul R.},
+  title = {Charting a Course to Conflict: Territorial Issues and Interstate
+	Conflict, 1816-1992},
+  journal = {Conflict Management and Peace Science},
+  year = {1996},
+  volume = {15},
+  pages = {43-73},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @ARTICLE{herz50,
   author = {Herz, John H.},
   title = {Idealist Internationalism and the Security Dilemma},
@@ -1177,6 +1260,18 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{hiscox99,
+  author = {Hiscox, Michael J.},
+  title = {The Magic Bullet? The RTAA, Institutional Reform, and Trade Liberalization},
+  journal = {International Organization},
+  year = {1999},
+  volume = {53},
+  pages = {669-698},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.09.02}
+}
+
 @ARTICLE{hix07,
   author = {Hix, Simon},
   title = {Europscepticism as Anti-Centralization: A Rational Choice Institutionalist
@@ -1203,6 +1298,17 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{hornmavroidis01,
+  author = {Horn, Henrik and Mavroidis, Petros C.},
+  title = {Economic and Legal Aspects of the Most-Favored-Nation Clause},
+  journal = {European Journal of Political Economy},
+  year = {2001},
+  volume = {17},
+  pages = {233-279},
+  owner = {David},
+  timestamp = {2012.09.02}
+}
+
 @ARTICLE{hug02,
   author = {Hug, Simon and Konig, Thomas},
   title = {In View of Ratification: Governmental Preferences and Domestic Constraints
@@ -1226,6 +1332,15 @@
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@BOOK{huthallee02,
+  title = {The Democratic Peace and Territorial Conflict in the Twentieth Century},
+  publisher = {Cambridge University Press},
+  year = {2002},
+  author = {Huth, Paul K. and Allee, Todd L.},
+  owner = {David},
+  timestamp = {2012.08.23}
 }
 
 @ARTICLE{huthetal11,
@@ -1336,7 +1451,7 @@
   timestamp = {2012.08.12}
 }
 
-@ARTICLE{kecksikkin99,
+@ARTICLE{kecksikkink99,
   author = {Keck, Marget E. and Sikkink, Kathryn},
   title = {Transnational Advocacy Networks in International and Regional Politics},
   journal = {International Social Science Journal},
@@ -1497,6 +1612,17 @@
   timestamp = {2012.08.01}
 }
 
+@BOOK{krinershen10,
+  title = {The Casualty Gap: The Causes and Consequences of American Wartime
+	Involvement},
+  publisher = {Oxford University Press},
+  year = {2010},
+  author = {Kriner, Douglas L. and Shen, Francis X.},
+  address = {Oxford},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @BOOK{kuhn96,
   title = {The Structure of Scientific Revolutions},
   publisher = {The University of Chicago Press},
@@ -1624,6 +1750,18 @@
   timestamp = {2012.08.16}
 }
 
+@ARTICLE{levymorgan86,
+  author = {Levy, Jack S. and Morgan, T. Cliffton},
+  title = {The War-Weariness Hypothesis: An Empirical Test},
+  journal = {American Journal of Political Science},
+  year = {1986},
+  volume = {30},
+  pages = {26-49},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @ARTICLE{lewisbeckalford80,
   author = {Lewis-Beck, Michael S. and Alford, John R.},
   title = {Can Government Regulate Safety? The Coal Mine Example},
@@ -1733,6 +1871,16 @@
   timestamp = {2012.08.12}
 }
 
+@BOOK{mansbachvasquez81,
+  title = {In Search of Theory: A New Paradigm for Global Politics},
+  publisher = {Columbia University Press},
+  year = {1981},
+  author = {Mansbach, Richard A and Vasquez, John A.},
+  address = {New York},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @ARTICLE{mansfieldpevehouse06,
   author = {Mansfield, Edward D. and Pevehouse, Jon C.},
   title = {Democratization and International Organizations},
@@ -1767,6 +1915,18 @@
   number = {3},
   owner = {David},
   timestamp = {2012.08.14}
+}
+
+@ARTICLE{marcholsen84,
+  author = {March, James G. and Olsen, Johan P.},
+  title = {The New Institutionalism: Organizational Factors in Political Life},
+  journal = {The American Political Science Review},
+  year = {1984},
+  volume = {78},
+  pages = {734-749},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.23}
 }
 
 @ARTICLE{matilla01,
@@ -2096,6 +2256,18 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{mueller71,
+  author = {Mueller, John E.},
+  title = {Trends in Popular Support for the Wars in Korea and Vietnam},
+  journal = {The American Political Science Review},
+  year = {1971},
+  volume = {65},
+  pages = {358-375},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @ARTICLE{niouordeshook86,
   author = {Niou, Emerson M. S. and Ordeshook, Peter C.},
   title = {A Theory of Balance of Power in International Systems},
@@ -2370,6 +2542,30 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{rogowski87,
+  author = {Rogowski, Ronald},
+  title = {Trade and the Variety of Democratic Institutions},
+  journal = {International Organization},
+  year = {1987},
+  volume = {42},
+  pages = {203-223},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.09.02}
+}
+
+@ARTICLE{rose04,
+  author = {Rose, Andrew K.},
+  title = {Do We Really Know that the WTO Increases Trade?},
+  journal = {American Economic Review},
+  year = {2004},
+  volume = {94},
+  pages = {98-114},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.09.02}
+}
+
 @BOOK{rosen05,
   title = {War and Human Nature},
   publisher = {Princeton University Press},
@@ -2378,6 +2574,31 @@
   address = {Princeton, NJ},
   owner = {David},
   timestamp = {2012.08.10}
+}
+
+@INBOOK{rosenau66,
+  pages = {27-93},
+  title = {Pre-Theories and Theories of Foreign Policy},
+  publisher = {Northwestern University Press},
+  year = {1966},
+  editor = {Farrell, R. Barry},
+  author = {Rosenau, James N.},
+  address = {Evanston, IL},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
+@ARTICLE{rosendorff05,
+  author = {Rosendorff, B. Peter},
+  title = {Stability and Rigidity: Politics and Design of the WTO's Dispute
+	Settlement Procedure},
+  journal = {The American Political Science Review},
+  year = {2005},
+  volume = {99},
+  pages = {389-400},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.09.02}
 }
 
 @ARTICLE{ross04,
@@ -2695,6 +2916,19 @@
   timestamp = {2012.06.24}
 }
 
+@ARTICLE{smith04,
+  author = {Smith, Michael E.},
+  title = {Institutionalization, Policy Adaptation, and European Foreign Policy
+	Cooperation},
+  journal = {European Journal of International Relations},
+  year = {2004},
+  volume = {10},
+  pages = {95-136},
+  number = {1},
+  owner = {David},
+  timestamp = {2012.08.23}
+}
+
 @ARTICLE{snidal85,
   author = {Snidal, Duncan},
   title = {Coordination versus Prisoners' Dilemma: Implications for International
@@ -2768,6 +3002,18 @@
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{tallberg10,
+  author = {Tallberg, Jonas},
+  title = {The Power of the Chair: Formal Leadership in International Cooperation},
+  journal = {International Studies Quarterly},
+  year = {2010},
+  volume = {54},
+  pages = {241-265},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.23}
 }
 
 @ARTICLE{tarar05,
@@ -2875,6 +3121,18 @@
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{vreeland08,
+  author = {Vreeland, James},
+  title = {The Effect of Political Regimes on Civil War: Unpacking Anocracy},
+  journal = {Journal of Conflict Resolution},
+  year = {2008},
+  volume = {52},
+  pages = {401-425},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.08.23}
 }
 
 @ARTICLE{waever98,
@@ -2989,6 +3247,19 @@
   address = {Cambridge},
   owner = {David},
   timestamp = {2012.08.10}
+}
+
+@ARTICLE{wendt92,
+  author = {Wendt, Alexander},
+  title = {Anarchy is What States Make of It: The Social Construction of Power
+	Politics},
+  journal = {International Organization},
+  year = {1992},
+  volume = {46},
+  pages = {391-425},
+  number = {2},
+  owner = {David},
+  timestamp = {2012.08.20}
 }
 
 @ARTICLE{wiegandpowell11,
