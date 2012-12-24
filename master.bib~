@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.9.
+% This file was created with JabRef 2.7b.
 % Encoding: Cp1252
 
 @ARTICLE{abbottetal00,
@@ -323,17 +323,6 @@
   timestamp = {2012.08.14}
 }
 
-@ARTICLE{bucklin93,
-  author = {Bucklin, Louis P.},
-  title = {Modelling the International Gray Market for Public Policy Decisions},
-  journal = {International Journal of Research in Marketing},
-  year = {1993},
-  volume = {10},
-  pages = {387--405},
-  owner = {david},
-  timestamp = {2012.12.16}
-}
-
 @BOOK{bdm81,
   title = {The War Trap},
   publisher = {Yale University Press},
@@ -589,8 +578,8 @@
 }
 
 @INBOOK{cortellpeterson06,
-  chapter = {Dutiful Agents, Rogue Actors, or Both? Staffing, Voting Rules, and
-	Slack in the WHO and WTO},
+  chapter = {6: Dutiful Agents, Rogue Actors, or Both? Staffing, Voting Rules,
+	and Slack in the WHO and WTO},
   pages = {255--280},
   title = {Delegation and Agency in International Organizations},
   publisher = {Cambridge University Press},
@@ -1420,8 +1409,8 @@
 }
 
 @INBOOK{delegationintro,
-  chapter = {Delegation Under Anarchy: States, International Organizations, and
-	Principal-Agent Theory},
+  chapter = {1: Delegation Under Anarchy: States, International Organizations,
+	and Principal-Agent Theory},
   pages = {3--38},
   title = {Delegation and Agency in International Organizations},
   publisher = {Cambridge University Press},
@@ -2058,17 +2047,6 @@
   number = {1},
   owner = {David},
   timestamp = {2012.08.23}
-}
-
-@BOOK{levythomp10,
-  title = {Causes of War},
-  publisher = {Wiley-Blackwell},
-  year = {2010},
-  author = {Levy, Jack S. and Thompson, Wiliam R.},
-  address = {Oxford},
-  owner = {David},
-  quality = {1},
-  timestamp = {2012.12.24}
 }
 
 @ARTICLE{lewisbeckalford80,
@@ -3032,19 +3010,6 @@
   number = {1},
   owner = {David},
   timestamp = {2012.09.02}
-}
-
-@ARTICLE{rose98,
-  author = {Rose, Gideon},
-  title = {Review: Neoclassical Realism and Theories of Foreign Policy},
-  journal = {World Politics},
-  year = {1998},
-  volume = {51},
-  pages = {144--172},
-  number = {1},
-  owner = {David},
-  quality = {1},
-  timestamp = {2012.12.24}
 }
 
 @BOOK{rosen05,

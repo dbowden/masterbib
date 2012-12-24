@@ -1,14 +1,14 @@
-% This file was created with JabRef 2.8.
+% This file was created with JabRef 2.9.
 % Encoding: Cp1252
 
 @ARTICLE{abbottetal00,
   author = {Abbott, Kenneth W. and Keohane, Robert O. and Moravcsik, Andrew and
-	Slaughter, Anne--Marie and Snidal, Duncan},
+	Slaughter, Anne-Marie and Snidal, Duncan},
   title = {The Concept of Legalization},
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {401----419},
+  pages = {401--419},
   number = {3},
   owner = {David},
   timestamp = {2012.06.14}
@@ -20,7 +20,7 @@
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {421----456},
+  pages = {421--456},
   number = {3},
   owner = {David},
   timestamp = {2012.06.14}
@@ -28,12 +28,12 @@
 
 @ARTICLE{accominottiflandreau08,
   author = {Accominotti, Olivier and Flandreau, Marc},
-  title = {Bilateral Treaties and the Most--Favored--Nation Clause: The Myth
-	of Trade Liberalization in the Nineteenth Century},
+  title = {Bilateral Treaties and the Most-Favored-Nation Clause: The Myth of
+	Trade Liberalization in the Nineteenth Century},
   journal = {World Politics},
   year = {2008},
   volume = {60},
-  pages = {147----188},
+  pages = {147--188},
   number = {2},
   owner = {David},
   timestamp = {2012.09.02}
@@ -46,7 +46,7 @@
   journal = {International Organization},
   year = {1992},
   volume = {46},
-  pages = {101----145},
+  pages = {101--145},
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
@@ -59,9 +59,22 @@
   journal = {Annual Review of Political Science},
   year = {2006},
   volume = {9},
-  pages = {477----502},
+  pages = {477--502},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{alleepeinhardt11,
+  author = {Allee, Todd and Peinhardt, Clint},
+  title = {Contingent Credibility: The Impact of Investment Treaty Violations
+	on Foreign Direct Investment},
+  journal = {International Organization},
+  year = {2011},
+  volume = {65},
+  pages = {401-432},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.12.10}
 }
 
 @ARTICLE{alleehuth06,
@@ -71,7 +84,7 @@
   journal = {American Political Science Review},
   year = {2006},
   volume = {100},
-  pages = {219----234},
+  pages = {219--234},
   number = {2},
   owner = {David},
   timestamp = {2012.08.13}
@@ -84,7 +97,7 @@
   journal = {International Organization},
   year = {2012},
   volume = {66},
-  pages = {243----276},
+  pages = {243--276},
   number = {2},
   owner = {David},
   timestamp = {2012.08.13}
@@ -107,7 +120,7 @@
   journal = {International Affairs},
   year = {2003},
   volume = {79},
-  pages = {783----800},
+  pages = {783--800},
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
@@ -120,7 +133,7 @@
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {489----518},
+  pages = {489--518},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -133,10 +146,19 @@
   journal = {Journal of Conflict Resolution},
   year = {2012},
   volume = {56},
-  pages = {382----412},
+  pages = {382--412},
   number = {3},
   owner = {David},
   timestamp = {2012.08.23}
+}
+
+@UNPUBLISHED{ai04,
+  author = {{Amnesty International}},
+  title = {The Rohingya Minority: Fundamental Rights Denied},
+  note = {AI Index: ASA 16/005/2004},
+  year = {2004},
+  owner = {david},
+  timestamp = {2012.12.15}
 }
 
 @ARTICLE{ashley84,
@@ -145,7 +167,7 @@
   journal = {International Organization},
   year = {1984},
   volume = {38},
-  pages = {225----261; 275----281},
+  pages = {225--261; 275--281},
   number = {2},
   owner = {David},
   timestamp = {2012.07.24}
@@ -167,7 +189,7 @@
   journal = {American Political Science Review},
   year = {1981},
   volume = {75},
-  pages = {306----318},
+  pages = {306--318},
   number = {2},
   owner = {David},
   timestamp = {2012.08.17}
@@ -180,7 +202,7 @@
   journal = {International Organization},
   year = {2009},
   volume = {63},
-  pages = {281----308},
+  pages = {281--308},
   number = {2},
   owner = {David},
   timestamp = {2012.08.16}
@@ -203,7 +225,7 @@
   journal = {Journal of Peace Research},
   year = {1999},
   volume = {36},
-  pages = {463----479},
+  pages = {463--479},
   number = {4},
   owner = {David},
   timestamp = {2012.06.15}
@@ -215,7 +237,7 @@
   journal = {International Migration Review},
   year = {2001},
   volume = {35},
-  pages = {244----277},
+  pages = {244--277},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -237,7 +259,7 @@
   journal = {World Politics},
   year = {2004},
   volume = {57},
-  pages = {1----38},
+  pages = {1--38},
   number = {1},
   owner = {David},
   timestamp = {2012.08.13}
@@ -250,7 +272,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2009},
   volume = {53},
-  pages = {677----697},
+  pages = {677--697},
   number = {5},
   owner = {David},
   timestamp = {2012.08.23}
@@ -273,7 +295,7 @@
   journal = {Journal of Economic Literature},
   year = {1994},
   volume = {32},
-  pages = {1667----1717},
+  pages = {1667--1717},
   number = {4},
   owner = {david},
   timestamp = {2012.09.25}
@@ -295,10 +317,21 @@
   journal = {International Studies Quarterly},
   year = {2011},
   volume = {55},
-  pages = {859----882},
+  pages = {859--882},
   number = {3},
   owner = {David},
   timestamp = {2012.08.14}
+}
+
+@ARTICLE{bucklin93,
+  author = {Bucklin, Louis P.},
+  title = {Modelling the International Gray Market for Public Policy Decisions},
+  journal = {International Journal of Research in Marketing},
+  year = {1993},
+  volume = {10},
+  pages = {387--405},
+  owner = {david},
+  timestamp = {2012.12.16}
 }
 
 @BOOK{bdm81,
@@ -317,7 +350,7 @@
   journal = {American Political Science Review},
   year = {1990},
   volume = {84},
-  pages = {747----765},
+  pages = {747--765},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -330,7 +363,7 @@
   journal = {American Political Science Review},
   year = {1999},
   volume = {93},
-  pages = {791----807},
+  pages = {791--807},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -353,7 +386,7 @@
   journal = {Journal of Peace Research},
   year = {2002},
   volume = {39},
-  pages = {417----433},
+  pages = {417--433},
   number = {4},
   owner = {David},
   timestamp = {2012.07.10}
@@ -365,7 +398,7 @@
   journal = {International Studies Quarterly},
   year = {2008},
   volume = {52},
-  pages = {215----233},
+  pages = {215--233},
   number = {2},
   owner = {David},
   timestamp = {2012.07.10}
@@ -387,10 +420,21 @@
   journal = {World Politics},
   year = {1966},
   volume = {18},
-  pages = {361----377},
+  pages = {361--377},
   number = {3},
   owner = {david},
   timestamp = {2012.06.13}
+}
+
+@ARTICLE{bussehefecker07,
+  author = {Busse, Matthias and Hefecker, Carsten},
+  title = {Political Risk, Institutions, and Foreign Direct Investment},
+  journal = {European Journal of Political Economy},
+  year = {2007},
+  volume = {23},
+  pages = {397-415},
+  owner = {David},
+  timestamp = {2012.12.04}
 }
 
 @ARTICLE{campbell69,
@@ -399,7 +443,7 @@
   journal = {American Psychologist},
   year = {1969},
   volume = {24},
-  pages = {409----429},
+  pages = {409--429},
   number = {4},
   owner = {David},
   timestamp = {2012.06.15}
@@ -412,14 +456,14 @@
   journal = {International Studies Quarterly},
   year = {2005},
   volume = {49},
-  pages = {161----178},
+  pages = {161--178},
   number = {2},
   owner = {David},
   timestamp = {2012.07.23}
 }
 
 @BOOK{carr46,
-  title = {The Twenty Years' Crisis, 1919----1939},
+  title = {The Twenty Years' Crisis, 1919--1939},
   publisher = {Perennial},
   year = {1946},
   author = {Carr, Edward Hallett},
@@ -430,12 +474,12 @@
 }
 
 @ARTICLE{chasedunn81,
-  author = {Chase--Dunn, Christopher},
+  author = {Chase-Dunn, Christopher},
   title = {Interstate System and Capitalist World Economy: One Logic or Two?},
   journal = {International Studies Quarterly},
   year = {1981},
   volume = {25},
-  pages = {19----42},
+  pages = {19--42},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -457,7 +501,7 @@
   journal = {International Organization},
   year = {1993},
   volume = {47},
-  pages = {175----205},
+  pages = {175--205},
   number = {2},
   owner = {David},
   timestamp = {2012.06.14}
@@ -470,7 +514,7 @@
   journal = {Journal of Politics},
   year = {2006},
   volume = {71},
-  pages = {1--12},
+  pages = {1-12},
   number = {2},
   owner = {David},
   timestamp = {2012.11.14}
@@ -482,7 +526,7 @@
   journal = {International Organization},
   year = {1990},
   volume = {44},
-  pages = {137----168},
+  pages = {137--168},
   number = {2},
   owner = {David},
   timestamp = {2012.08.15}
@@ -490,11 +534,11 @@
 
 @ARTICLE{clarkeprimo07,
   author = {Clarke, Kevin A. and Primo, David M.},
-  title = {Modernizing Political Science: A Model--Based Approach},
+  title = {Modernizing Political Science: A Model-Based Approach},
   journal = {Perspectives on Politics},
   year = {2007},
   volume = {5},
-  pages = {741----753},
+  pages = {741--753},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -510,19 +554,30 @@
   timestamp = {2012.08.10}
 }
 
+@BOOK{collieretal03,
+  title = {Breaking the Conflict Trap: Civil War and Development Policy},
+  publisher = {World Bank},
+  year = {2003},
+  author = {Collier, Paul and Elliott, V.L. and Hegre, Havard and Hoeffler, Anke
+	and Reynal-Querol, Marta and Sambanis, Nicholas},
+  address = {Washington, DC},
+  owner = {david},
+  timestamp = {2012.12.15}
+}
+
 @ARTICLE{collierhoeffler04,
   author = {Collier, Paul and Hoeffler, Anke},
   title = {Greed and Grievance in Civil War},
   journal = {Oxford Economic Papers},
   year = {2004},
   volume = {56},
-  pages = {563----595},
+  pages = {563--595},
   number = {4},
   owner = {david},
   timestamp = {2012.07.02}
 }
 
-@BOOK{copelovitch09,
+@BOOK{copelovitch10,
   title = {The International Monetary Fund in the Global Economy: Banks, Bonds,
 	and Bailouts},
   publisher = {Cambridge University Press},
@@ -531,6 +586,21 @@
   address = {Cambridge},
   owner = {David},
   timestamp = {2012.08.10}
+}
+
+@INBOOK{cortellpeterson06,
+  chapter = {Dutiful Agents, Rogue Actors, or Both? Staffing, Voting Rules, and
+	Slack in the WHO and WTO},
+  pages = {255--280},
+  title = {Delegation and Agency in International Organizations},
+  publisher = {Cambridge University Press},
+  year = {2006},
+  editor = {Hawkins, Darren G. and Lake, David A. and Nielson, Daniel L. and
+	Tierney, Michael J.},
+  author = {Cortell, Andrew P. and Peterson, Susan},
+  address = {Cambridge},
+  owner = {david},
+  timestamp = {2012.12.16}
 }
 
 @BOOK{cox97,
@@ -551,7 +621,7 @@
   journal = {Millennium},
   year = {1981},
   volume = {10},
-  pages = {126----155},
+  pages = {126--155},
   number = {2},
   owner = {David},
   timestamp = {2012.06.11}
@@ -563,7 +633,7 @@
   journal = {Political Analysis},
   year = {2010},
   volume = {19},
-  pages = {66----86},
+  pages = {66--86},
   owner = {David},
   timestamp = {2012.11.13}
 }
@@ -575,7 +645,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2009},
   volume = {53},
-  pages = {570----597},
+  pages = {570--597},
   number = {4},
   owner = {David},
   timestamp = {2012.06.25}
@@ -597,7 +667,7 @@
   journal = {World Politics},
   year = {2002},
   volume = {54},
-  pages = {405----436},
+  pages = {405--436},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -609,7 +679,7 @@
   journal = {Journal of Conflict Resolution},
   year = {200},
   volume = {50},
-  pages = {690----713},
+  pages = {690--713},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -622,7 +692,7 @@
   journal = {American Political Science Review},
   year = {2004},
   volume = {98},
-  pages = {153----169},
+  pages = {153--169},
   number = {1},
   owner = {David},
   timestamp = {2012.08.01}
@@ -676,7 +746,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {563----593},
+  pages = {563--593},
   number = {3},
   owner = {david},
   timestamp = {2012.08.16}
@@ -698,7 +768,7 @@
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {397----419},
+  pages = {397--419},
   number = {2},
   owner = {david},
   timestamp = {2012.07.09}
@@ -710,7 +780,7 @@
   journal = {International Organization},
   year = {1996},
   volume = {50},
-  pages = {379----406},
+  pages = {379--406},
   number = {3},
   owner = {David},
   timestamp = {2012.06.14}
@@ -722,10 +792,47 @@
   journal = {Political Science Quarterly},
   year = {2004},
   volume = {119},
-  pages = {477----498},
+  pages = {477--498},
   number = {3},
   owner = {David},
   timestamp = {2012.10.17}
+}
+
+@ARTICLE{elkinsetal06,
+  author = {Elkins, Zachary and Simmons, Beth and Guzman, Andrew},
+  title = {Competing for Capital: The Diffusion of Bilateral Investment Treaties,
+	1959-2000},
+  journal = {International Organization},
+  year = {2006},
+  volume = {60},
+  pages = {811-846},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.12.11}
+}
+
+@ARTICLE{endersetal06,
+  author = {Enders, Walter and Sachisda, Adolfo and Sandler, Todd},
+  title = {The Impact of Transnational Terrorism on U.S. Foreign Direct Investment},
+  journal = {Political Research Quarterly},
+  year = {2006},
+  volume = {59},
+  pages = {517-531},
+  number = {4},
+  owner = {David},
+  timestamp = {2012.12.04}
+}
+
+@ARTICLE{enderssandler96,
+  author = {Enders, Walter and Sandler, Todd},
+  title = {Terrorism and Foreign Direct Investment in Spain and Greece},
+  journal = {Kyklos},
+  year = {1996},
+  volume = {49},
+  pages = {331-352},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.12.04}
 }
 
 @ARTICLE{ethier01,
@@ -734,7 +841,7 @@
   journal = {European Journal of Political Economy},
   year = {2001},
   volume = {17},
-  pages = {209----232},
+  pages = {209--232},
   owner = {David},
   timestamp = {2012.09.02}
 }
@@ -746,7 +853,7 @@
   journal = {American Journal of Political Science},
   year = {2008},
   volume = {52},
-  pages = {304----321},
+  pages = {304--321},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -758,7 +865,7 @@
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {269----305},
+  pages = {269--305},
   number = {2},
   owner = {David},
   timestamp = {2012.08.01}
@@ -771,7 +878,7 @@
   journal = {American Political Science Review},
   year = {1994},
   volume = {88},
-  pages = {577----592},
+  pages = {577--592},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -783,7 +890,7 @@
   journal = {International Organization},
   year = {1995},
   volume = {49},
-  pages = {379----414},
+  pages = {379-414},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -796,7 +903,7 @@
   journal = {Journal of Conflict Resolution},
   year = {1994},
   volume = {38},
-  pages = {236----269},
+  pages = {236--269},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -808,7 +915,7 @@
   journal = {American Political Science Review},
   year = {1996},
   volume = {90},
-  pages = {715----736},
+  pages = {715--736},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -840,7 +947,7 @@
   journal = {International Organization},
   year = {1993},
   volume = {47},
-  pages = {565----597},
+  pages = {565--597},
   number = {3},
   owner = {David},
   timestamp = {2012.08.01}
@@ -852,7 +959,7 @@
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {887----917},
+  pages = {887--917},
   number = {4},
   owner = {David},
   timestamp = {2012.08.01}
@@ -865,7 +972,7 @@
   journal = {International Organization},
   year = {2003},
   volume = {7},
-  pages = {519----549},
+  pages = {519--549},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -877,7 +984,7 @@
   journal = {International Organization},
   year = {2003},
   volume = {57},
-  pages = {337----372},
+  pages = {337--372},
   number = {2},
   owner = {David},
   timestamp = {2012.08.13}
@@ -900,7 +1007,7 @@
   journal = {Social Networks},
   year = {2006},
   volume = {28},
-  pages = {454----456},
+  pages = {454--456},
   owner = {david},
   timestamp = {2012.10.30}
 }
@@ -911,7 +1018,7 @@
   journal = {Econometrica},
   year = {1986},
   volume = {54},
-  pages = {533----554},
+  pages = {533--554},
   owner = {David},
   timestamp = {2012.08.12}
 }
@@ -932,7 +1039,7 @@
   journal = {International Organization},
   year = {1996},
   volume = {50},
-  pages = {269----299},
+  pages = {269--299},
   number = {2},
   owner = {David},
   timestamp = {2012.08.19}
@@ -945,7 +1052,7 @@
   journal = {International Studies Quarterly},
   year = {2011},
   volume = {55},
-  pages = {545----561},
+  pages = {545--561},
   number = {3},
   owner = {David},
   timestamp = {2012.08.23}
@@ -957,7 +1064,7 @@
   journal = {American Journal of Political Science},
   year = {2004},
   volume = {48},
-  pages = {775----795},
+  pages = {775--795},
   number = {4},
   owner = {David},
   timestamp = {2012.08.01}
@@ -970,7 +1077,7 @@
   journal = {American Political Science Review},
   year = {2000},
   volume = {94},
-  pages = {653----663},
+  pages = {653--663},
   number = {3},
   owner = {David},
   timestamp = {2012.09.18}
@@ -978,11 +1085,11 @@
 
 @ARTICLE{ghobarahetal03,
   author = {Ghobarah, Hazem Adam and Huth, Paul and Russett, Bruce},
-  title = {Civil Wars Kill and Maim People------Long After the Shooting Stops},
+  title = {Civil Wars Kill and Maim People---Long After the Shooting Stops},
   journal = {American Political Science Review},
   year = {200},
   volume = {97},
-  pages = {189----202},
+  pages = {189--202},
   number = {2},
   owner = {David},
   timestamp = {2012.06.25}
@@ -994,7 +1101,7 @@
   journal = {International Studies Quarterly},
   year = {1989},
   volume = {33},
-  pages = {475----499},
+  pages = {475--499},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1007,7 +1114,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {935----967},
+  pages = {935--967},
   number = {4},
   owner = {David},
   timestamp = {2012.08.13}
@@ -1015,12 +1122,12 @@
 
 @ARTICLE{gilligan04,
   author = {Gilligan, Michael J.},
-  title = {Is There a Broader--Deeper Trade--Off in International Multilateral
+  title = {Is There a Broader-Deeper Trade-Off in International Multilateral
 	Agreements},
   journal = {International Organization},
   year = {2004},
   volume = {58},
-  pages = {459----484},
+  pages = {459--484},
   number = {3},
   owner = {david},
   timestamp = {2012.07.10}
@@ -1054,7 +1161,7 @@
   journal = {Journal of Conflict Resolution},
   year = {1992},
   volume = {36},
-  pages = {634----664},
+  pages = {634--664},
   number = {4},
   owner = {David},
   timestamp = {2012.08.20}
@@ -1077,7 +1184,7 @@
   journal = {International Organization},
   year = {1996},
   volume = {50},
-  pages = {541----564},
+  pages = {541--564},
   number = {4},
   owner = {David},
   timestamp = {2012.08.01}
@@ -1085,12 +1192,12 @@
 
 @ARTICLE{goldsteinetal00,
   author = {Goldstein, Judith L. and Kahler, Miles and Keohane, Robert O. and
-	Slaughter, Anne--Marie},
+	Slaughter, Anne-Marie},
   title = {Introduction: Legalization and World Politics},
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {385----399},
+  pages = {385--399},
   number = {3},
   owner = {David},
   timestamp = {2012.06.14}
@@ -1103,7 +1210,7 @@
   journal = {International Organization},
   year = {2007},
   volume = {61},
-  pages = {37----67},
+  pages = {37--67},
   number = {1},
   owner = {David},
   timestamp = {2012.08.13}
@@ -1116,7 +1223,7 @@
   journal = {Duke Law Journal},
   year = {2004},
   volume = {54},
-  pages = {620----703},
+  pages = {620--703},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1129,7 +1236,7 @@
   journal = {International Organization},
   year = {1988},
   volume = {42},
-  pages = {485----507},
+  pages = {485--507},
   number = {3},
   owner = {David},
   timestamp = {2012.08.01}
@@ -1142,7 +1249,7 @@
   journal = {International Organization},
   year = {2009},
   volume = {63},
-  pages = {341----355},
+  pages = {341--355},
   number = {2},
   owner = {David},
   timestamp = {2012.08.01}
@@ -1164,7 +1271,7 @@
   journal = {The American Perspective},
   year = {1950},
   volume = {4},
-  pages = {421----440},
+  pages = {421--440},
   number = {Fall},
   owner = {David},
   timestamp = {2012.06.12}
@@ -1196,7 +1303,7 @@
   journal = {World Politics},
   year = {1953},
   volume = {5},
-  pages = {442----477},
+  pages = {442--477},
   number = {4},
   owner = {David},
   timestamp = {2012.08.15}
@@ -1209,7 +1316,7 @@
   journal = {International Organization},
   year = {1992},
   volume = {46},
-  pages = {187----224},
+  pages = {187--224},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1217,12 +1324,12 @@
 
 @ARTICLE{hainmueller10,
   author = {Hainmueller, Jens and Hiscox, Michael J.},
-  title = {Attitudes Toward Highly Skilled and Low--Skilled Immigration: Evidence
+  title = {Attitudes Toward Highly Skilled and Low-Skilled Immigration: Evidence
 	from a Survey Experiment},
   journal = {American Political Science Review},
   year = {2010},
   volume = {104},
-  pages = {61----84},
+  pages = {61--84},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1235,7 +1342,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {469----498},
+  pages = {469--498},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1248,7 +1355,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2008},
   volume = {52},
-  pages = {295----325},
+  pages = {295--325},
   number = {2},
   owner = {David},
   timestamp = {2012.08.14}
@@ -1260,7 +1367,7 @@
   journal = {Science},
   year = {1968},
   volume = {162},
-  pages = {1243----1248},
+  pages = {1243--1248},
   number = {3859},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1282,7 +1389,7 @@
   journal = {American Economic Review},
   year = {2007},
   volume = {97},
-  pages = {871----889},
+  pages = {871--889},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1294,7 +1401,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2007},
   volume = {51},
-  pages = {588----621},
+  pages = {588--621},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1306,7 +1413,7 @@
   journal = {Yale Law Journal},
   year = {2002},
   volume = {111},
-  pages = {1935----2042},
+  pages = {1935--2042},
   number = {8},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1314,8 +1421,8 @@
 
 @INBOOK{delegationintro,
   chapter = {Delegation Under Anarchy: States, International Organizations, and
-	Principal--Agent Theory},
-  pages = {3----38},
+	Principal-Agent Theory},
+  pages = {3--38},
   title = {Delegation and Agency in International Organizations},
   publisher = {Cambridge University Press},
   year = {2006},
@@ -1342,11 +1449,11 @@
 @ARTICLE{hensel96,
   author = {Hensel, Paul R.},
   title = {Charting a Course to Conflict: Territorial Issues and Interstate
-	Conflict, 1816----1992},
+	Conflict, 1816--1992},
   journal = {Conflict Management and Peace Science},
   year = {1996},
   volume = {15},
-  pages = {43----73},
+  pages = {43--73},
   number = {1},
   owner = {David},
   timestamp = {2012.08.23}
@@ -1358,7 +1465,7 @@
   journal = {World Politics},
   year = {1950},
   volume = {2},
-  pages = {157----180},
+  pages = {157--180},
   number = {2},
   owner = {David},
   timestamp = {2012.06.29}
@@ -1366,12 +1473,12 @@
 
 @ARTICLE{hirshleifer89,
   author = {Hirshleifer, Jack},
-  title = {Conflict and Rent--Seeking Success Functions: Ration vs. Difference
+  title = {Conflict and Rent-Seeking Success Functions: Ration vs. Difference
 	Models of Relative Success},
   journal = {Public Choice},
   year = {1989},
   volume = {63},
-  pages = {101----112},
+  pages = {101--112},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1383,7 +1490,7 @@
   journal = {Snythese},
   year = {1988},
   volume = {76},
-  pages = {201----233},
+  pages = {201--233},
   owner = {David},
   timestamp = {2012.08.12}
 }
@@ -1394,7 +1501,7 @@
   journal = {International Organization},
   year = {1999},
   volume = {53},
-  pages = {669----698},
+  pages = {669--698},
   number = {4},
   owner = {David},
   timestamp = {2012.09.02}
@@ -1402,12 +1509,12 @@
 
 @ARTICLE{hix07,
   author = {Hix, Simon},
-  title = {Europscepticism as Anti--Centralization: A Rational Choice Institutionalist
+  title = {Europscepticism as Anti-Centralization: A Rational Choice Institutionalist
 	Perspective},
   journal = {European Union Politics},
   year = {2007},
   volume = {8},
-  pages = {131----150},
+  pages = {131--150},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1420,7 +1527,7 @@
   journal = {American Journal of Political Science},
   year = {2002},
   volume = {46},
-  pages = {688----698},
+  pages = {688--698},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1432,7 +1539,7 @@
   journal = {Journal of the American Statistical Association},
   year = {1986},
   volume = {81},
-  pages = {945----960},
+  pages = {945--960},
   number = {396},
   owner = {David},
   timestamp = {2012.09.04}
@@ -1445,7 +1552,7 @@
   journal = {International Organization},
   year = {2008},
   volume = {62},
-  pages = {553--587},
+  pages = {553-587},
   number = {4},
   owner = {David},
   timestamp = {2012.11.13}
@@ -1453,11 +1560,11 @@
 
 @ARTICLE{hornmavroidis01,
   author = {Horn, Henrik and Mavroidis, Petros C.},
-  title = {Economic and Legal Aspects of the Most--Favored--Nation Clause},
+  title = {Economic and Legal Aspects of the Most-Favored-Nation Clause},
   journal = {European Journal of Political Economy},
   year = {2001},
   volume = {17},
-  pages = {233----279},
+  pages = {233--279},
   owner = {David},
   timestamp = {2012.09.02}
 }
@@ -1469,7 +1576,7 @@
   journal = {International Organization},
   year = {2002},
   volume = {56},
-  pages = {447----476},
+  pages = {447--476},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1481,7 +1588,7 @@
   journal = {American Political Science Review},
   year = {1988},
   volume = {82},
-  pages = {423----443},
+  pages = {423--443},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1504,7 +1611,7 @@
   journal = {American Political Science Review},
   year = {2011},
   volume = {105},
-  pages = {415----436},
+  pages = {415--436},
   number = {2},
   owner = {David},
   timestamp = {2012.06.15}
@@ -1516,7 +1623,7 @@
   journal = {Global Governance},
   year = {2004},
   volume = {10},
-  pages = {207----225},
+  pages = {207--225},
   number = {2},
   owner = {David},
   timestamp = {2012.06.14}
@@ -1524,12 +1631,12 @@
 
 @ARTICLE{iida93,
   author = {Iida, Kosuke},
-  title = {When and How Do Domestic Constraints Matter? Two--Level Games with
+  title = {When and How Do Domestic Constraints Matter? Two-Level Games with
 	Uncertainty},
   journal = {Journal of Conflict Resolution},
   year = {1993},
   volume = {37},
-  pages = {403----426},
+  pages = {403--426},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1537,15 +1644,28 @@
 
 @ARTICLE{imai05,
   author = {Imai, Kosuke},
-  title = {Do Get--Out--the--Vote Calls Reduce Turnout? The Importance of Statistical
+  title = {Do Get-Out-the-Vote Calls Reduce Turnout? The Importance of Statistical
 	Methods for Field Experiments},
   journal = {American Political Science Review},
   year = {2005},
   volume = {99},
-  pages = {283----300},
+  pages = {283--300},
   number = {2},
   owner = {David},
   timestamp = {2012.09.18}
+}
+
+@ARTICLE{jensen03,
+  author = {Jensen, Nathan M.},
+  title = {Democratic Governance and Multinational Corporations: Political Regimes
+	and Inflows of Foreign Direct Investment},
+  journal = {International Organization},
+  year = {2003},
+  volume = {57},
+  pages = {587-616},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.12.04}
 }
 
 @ARTICLE{jervis78,
@@ -1554,7 +1674,7 @@
   journal = {World Politics},
   year = {1978},
   volume = {30},
-  pages = {167----214},
+  pages = {167--214},
   number = {2},
   owner = {David},
   timestamp = {2012.06.29}
@@ -1576,7 +1696,7 @@
   journal = {International Organ},
   year = {1992},
   volume = {46},
-  pages = {681----708},
+  pages = {681--708},
   number = {3},
   owner = {david},
   timestamp = {2012.07.10}
@@ -1588,7 +1708,7 @@
   journal = {Econometrica},
   year = {1979},
   volume = {47},
-  pages = {263----292},
+  pages = {263--292},
   number = {2},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1610,7 +1730,7 @@
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {359----384},
+  pages = {359--384},
   number = {2},
   owner = {David},
   timestamp = {2012.09.04}
@@ -1623,7 +1743,7 @@
   journal = {International Organization},
   year = {1977},
   volume = {31},
-  pages = {879----920},
+  pages = {879--920},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1635,7 +1755,7 @@
   journal = {International Social Science Journal},
   year = {1999},
   volume = {51},
-  pages = {89----101},
+  pages = {89--101},
   number = {159},
   owner = {David},
   timestamp = {2012.08.19}
@@ -1647,7 +1767,7 @@
   journal = {Journal of Common Market Studies},
   year = {2005},
   volume = {43},
-  pages = {551----582},
+  pages = {551--582},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1660,7 +1780,7 @@
   journal = {International Organization},
   year = {2008},
   volume = {62},
-  pages = {221----255},
+  pages = {221--255},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1682,19 +1802,19 @@
   journal = {International Security},
   year = {1995},
   volume = {20},
-  pages = {39----51},
+  pages = {39--51},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
 }
 
 @ARTICLE{keohaneetal00,
-  author = {Keohane, Robert O. and Moravcsik, Andrew and Slaughter, Anne--Marie},
+  author = {Keohane, Robert O. and Moravcsik, Andrew and Slaughter, Anne-Marie},
   title = {Legalized Dispute Resolution: Interstate and Transnational},
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {457----488},
+  pages = {457--488},
   number = {3},
   owner = {David},
   timestamp = {2012.06.15}
@@ -1712,18 +1832,18 @@
 
 @ARTICLE{kindleberger75,
   author = {Kindleberger, Charles P.},
-  title = {The Rise of Free Trade in Western Europe, 1820----1875},
+  title = {The Rise of Free Trade in Western Europe, 1820--1875},
   journal = {Journal of Economic History},
   year = {1975},
   volume = {35},
-  pages = {20----55},
+  pages = {20--55},
   number = {1},
   owner = {David},
   timestamp = {2012.08.01}
 }
 
 @BOOK{kindleberger73,
-  title = {The World in Depression, 1929----1939},
+  title = {The World in Depression, 1929--1939},
   publisher = {University of California Press},
   year = {1973},
   author = {Kindleberger, Charles P.},
@@ -1748,7 +1868,7 @@
   journal = {Yale Law Journal},
   year = {1997},
   volume = {106},
-  pages = {599----659},
+  pages = {599--659},
   number = {2},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1760,7 +1880,7 @@
   journal = {American Political Science Review},
   year = {2006},
   volume = {100},
-  pages = {369----384},
+  pages = {369--384},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1772,7 +1892,7 @@
   journal = {International Organization},
   year = {2001},
   volume = {55},
-  pages = {761----799},
+  pages = {761--799},
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
@@ -1784,7 +1904,7 @@
   journal = {World Politics},
   year = {1991},
   volume = {43},
-  pages = {336----366},
+  pages = {336--366},
   number = {3},
   owner = {David},
   timestamp = {2012.08.01}
@@ -1818,7 +1938,7 @@
   journal = {American Journal of Political Science},
   year = {2003},
   volume = {47},
-  pages = {597----611},
+  pages = {597--611},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1830,7 +1950,7 @@
   journal = {World Politics},
   year = {1997},
   volume = {49},
-  pages = {371----400},
+  pages = {371--400},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1842,7 +1962,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2006},
   volume = {50},
-  pages = {276----289},
+  pages = {276--289},
   number = {2},
   owner = {David},
   timestamp = {2012.06.25}
@@ -1850,7 +1970,7 @@
 
 @INBOOK{lakatos70,
   chapter = {The Methodology of Scientific Research Programs},
-  pages = {91----196},
+  pages = {91--196},
   title = {Criticism and the Growth of Knowledge},
   publisher = {Cambridge University Press},
   year = {1970},
@@ -1888,7 +2008,7 @@
   journal = {American Journal of Political Science},
   year = {2009},
   volume = {53},
-  pages = {461----476},
+  pages = {461--476},
   number = {2},
   owner = {David},
   timestamp = {2012.08.01}
@@ -1909,7 +2029,7 @@
   journal = {International Studies Quarterly},
   year = {2008},
   volume = {52},
-  pages = {533----553},
+  pages = {533--553},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -1922,7 +2042,7 @@
   journal = {Political Psychology},
   year = {1992},
   volume = {13},
-  pages = {283----310},
+  pages = {283--310},
   number = {2},
   owner = {David},
   timestamp = {2012.08.16}
@@ -1930,23 +2050,34 @@
 
 @ARTICLE{levymorgan86,
   author = {Levy, Jack S. and Morgan, T. Cliffton},
-  title = {The War--Weariness Hypothesis: An Empirical Test},
+  title = {The War-Weariness Hypothesis: An Empirical Test},
   journal = {American Journal of Political Science},
   year = {1986},
   volume = {30},
-  pages = {26----49},
+  pages = {26--49},
   number = {1},
   owner = {David},
   timestamp = {2012.08.23}
 }
 
+@BOOK{levythomp10,
+  title = {Causes of War},
+  publisher = {Wiley-Blackwell},
+  year = {2010},
+  author = {Levy, Jack S. and Thompson, Wiliam R.},
+  address = {Oxford},
+  owner = {David},
+  quality = {1},
+  timestamp = {2012.12.24}
+}
+
 @ARTICLE{lewisbeckalford80,
-  author = {Lewis--Beck, Michael S. and Alford, John R.},
+  author = {Lewis-Beck, Michael S. and Alford, John R.},
   title = {Can Government Regulate Safety? The Coal Mine Example},
   journal = {American Political Science Review},
   year = {1980},
   volume = {74},
-  pages = {745----756},
+  pages = {745--756},
   number = {3},
   owner = {David},
   timestamp = {2012.06.15}
@@ -1955,7 +2086,7 @@
 @INBOOK{lichbach09,
   chapter = {Internal Wars Over the State: Rational Choice Institutionalism and
 	Contentious Politics},
-  pages = {100----154},
+  pages = {100--154},
   title = {Handbook of War Studies III: The Intrastate Dimension},
   publisher = {University of Michigan Press},
   year = {2009},
@@ -1968,8 +2099,8 @@
 
 @ARTICLE{linke12,
   author = {Linke, Andrew and Witmer, Frank and O'Laughlin, John},
-  title = {Space--Time Granger Analysis of the War in Iraq: A Study of Coalition
-	and Insurgent Action--Reaction},
+  title = {Space-Time Granger Analysis of the War in Iraq: A Study of Coalition
+	and Insurgent Action-Reaction},
   journal = {International Interactions},
   year = {2012},
   volume = {Forthcoming},
@@ -1983,7 +2114,7 @@
   journal = {World Politics},
   year = {1984},
   volume = {37},
-  pages = {1----23},
+  pages = {1--23},
   number = {1},
   owner = {David},
   timestamp = {2012.08.13}
@@ -1995,7 +2126,7 @@
   journal = {International Migration Review},
   year = {2001},
   volume = {35},
-  pages = {33----56},
+  pages = {33--56},
   number = {1},
   owner = {david},
   timestamp = {2012.09.25}
@@ -2007,7 +2138,7 @@
   journal = {Geography Compass},
   year = {2010},
   volume = {4},
-  pages = {1154----1166},
+  pages = {1154--1166},
   number = {8},
   owner = {David},
   timestamp = {2012.07.10}
@@ -2019,7 +2150,7 @@
   journal = {Journal of Conflict Resolution},
   year = {1997},
   volume = {41},
-  pages = {38----68},
+  pages = {38--68},
   number = {1},
   owner = {David},
   timestamp = {2012.08.01}
@@ -2031,7 +2162,7 @@
   journal = {International Organization},
   year = {1994},
   volume = {48},
-  pages = {595----632},
+  pages = {595--632},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2043,7 +2174,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2005},
   volume = {49},
-  pages = {538----562},
+  pages = {538--562},
   number = {4},
   owner = {david},
   timestamp = {2012.07.03}
@@ -2055,7 +2186,7 @@
   journal = {American Philosophical Quarterly},
   year = {1965},
   volume = {2},
-  pages = {245----264},
+  pages = {245--264},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2067,7 +2198,7 @@
   journal = {American Political Science Review},
   year = {2000},
   volume = {94},
-  pages = {305--321},
+  pages = {305-321},
   number = {2},
   owner = {David},
   timestamp = {2012.11.13}
@@ -2089,7 +2220,7 @@
   journal = {Journal of Conflict Resolution},
   year = {1998},
   volume = {42},
-  pages = {523--543},
+  pages = {523-543},
   number = {5},
   owner = {David},
   timestamp = {2012.11.13}
@@ -2101,7 +2232,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {137----167},
+  pages = {137--167},
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2113,7 +2244,7 @@
   journal = {International Security},
   year = {1995},
   volume = {20},
-  pages = {5----38},
+  pages = {5--38},
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2121,11 +2252,11 @@
 
 @ARTICLE{maozrussett93,
   author = {Maoz, Zeev and Russett, Bruce},
-  title = {Normative and Structural Causes of Democratic Peace, 1946----1986},
+  title = {Normative and Structural Causes of Democratic Peace, 1946--1986},
   journal = {American Political Science Review},
   year = {1993},
   volume = {87},
-  pages = {624----638},
+  pages = {624--638},
   number = {3},
   owner = {David},
   timestamp = {2012.08.14}
@@ -2137,19 +2268,31 @@
   journal = {American Political Science Review},
   year = {1984},
   volume = {78},
-  pages = {734----749},
+  pages = {734--749},
   number = {3},
   owner = {David},
   timestamp = {2012.08.23}
 }
 
+@ARTICLE{martin05,
+  author = {Martin, Adrian},
+  title = {Environmental Conflict Between Refugee and Host Communities},
+  journal = {Journal of Peace Research},
+  year = {2005},
+  volume = {42},
+  pages = {329--346},
+  number = {3},
+  owner = {david},
+  timestamp = {2012.12.15}
+}
+
 @ARTICLE{matilla01,
-  author = {Mattila, Mikko and Lane, Jan--Erik},
-  title = {Why Unanimity in the Council? A Roll--call Analysis of Council Voting},
+  author = {Mattila, Mikko and Lane, Jan-Erik},
+  title = {Why Unanimity in the Council? A Roll-call Analysis of Council Voting},
   journal = {European Union Politics},
   year = {2001},
   volume = {2},
-  pages = {31----52},
+  pages = {31--52},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2162,7 +2305,7 @@
   journal = {World Politics},
   year = {2003},
   volume = {56},
-  pages = {1----42},
+  pages = {1--42},
   number = {1},
   owner = {David},
   timestamp = {2012.10.17}
@@ -2170,12 +2313,12 @@
 
 @ARTICLE{mayda06,
   author = {Mayda, Anna Marie},
-  title = {Who is Against Immigration? A Cross--Country Investigation of Individual
+  title = {Who is Against Immigration? A Cross-Country Investigation of Individual
 	Attitudes Toward Immigration},
   journal = {Review of Economics and Statistics},
   year = {2006},
   volume = {88},
-  pages = {510----50},
+  pages = {510--50},
   number = {3},
   owner = {david},
   timestamp = {2012.09.25}
@@ -2187,7 +2330,7 @@
   journal = {American Economic Review},
   year = {1984},
   volume = {74},
-  pages = {970----985},
+  pages = {970--985},
   number = {5},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2196,11 +2339,11 @@
 @ARTICLE{mbaye01,
   author = {Mbaye, Heather A. D.},
   title = {Why National States Comply with Supranational Law: Explaining Implementation
-	Infringements in the European Union 1972----1993},
+	Infringements in the European Union 1972--1993},
   journal = {European Union Politics},
   year = {2001},
   volume = {2},
-  pages = {259----281},
+  pages = {259--281},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2213,7 +2356,7 @@
   journal = {Law and Society Review},
   year = {2008},
   volume = {42},
-  pages = {865----902},
+  pages = {865--902},
   number = {4},
   owner = {David},
   timestamp = {2012.06.15}
@@ -2222,11 +2365,11 @@
 @ARTICLE{mcadamsnadler05,
   author = {McAdams, Richard H. and Nadler, Janice},
   title = {Testing the Focal Point Theory of Legal Compliance: The Effect of
-	Third--Party Expression in an Experimental Hawk/Dove Game},
+	Third-Party Expression in an Experimental Hawk/Dove Game},
   journal = {Journal of Empirical Legal Studies},
   year = {2005},
   volume = {2},
-  pages = {87----123},
+  pages = {87--123},
   number = {1},
   owner = {David},
   timestamp = {2012.06.15}
@@ -2239,7 +2382,7 @@
   journal = {American Journal of Political Science},
   year = {1997},
   volume = {41},
-  pages = {584----607},
+  pages = {584--607},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2251,7 +2394,7 @@
   journal = {International Security},
   year = {1994/1995},
   volume = {19},
-  pages = {5----49},
+  pages = {5--49},
   number = {3},
   owner = {David},
   timestamp = {2012.08.20}
@@ -2273,7 +2416,7 @@
   journal = {International Studies Quarterly},
   year = {2005},
   volume = {49},
-  pages = {695----714},
+  pages = {695--714},
   number = {4},
   owner = {David},
   timestamp = {2012.07.23}
@@ -2285,7 +2428,7 @@
   journal = {International Organization},
   year = {1995},
   volume = {49},
-  pages = {229----252},
+  pages = {229--252},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2294,11 +2437,11 @@
 @ARTICLE{merthapahre05,
   author = {Mertha, Andrew and Pahre, Robert},
   title = {Patently Misleading: Partial Implementation and Bargaining Leverage
-	in Sino--American Negotiations on Intellectual Property Rights},
+	in Sino-American Negotiations on Intellectual Property Rights},
   journal = {International Organization},
   year = {2005},
   volume = {59},
-  pages = {695----729},
+  pages = {695--729},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2307,11 +2450,11 @@
 @ARTICLE{meyer97,
   author = {Meyer, John W. and Boli, John and Thomas, George M. and Ramirez,
 	Francisco O.},
-  title = {World Society and the Nation--State},
+  title = {World Society and the Nation-State},
   journal = {American Journal of Sociology},
   year = {1997},
   volume = {103},
-  pages = {144----81},
+  pages = {144--81},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2324,7 +2467,7 @@
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {759----786},
+  pages = {759--786},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2336,7 +2479,7 @@
   journal = {Review of International Studies},
   year = {1991},
   volume = {17},
-  pages = {67----85},
+  pages = {67--85},
   number = {1},
   owner = {david},
   timestamp = {2012.07.30}
@@ -2348,7 +2491,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2004},
   volume = {48},
-  pages = {3----13},
+  pages = {3--13},
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2360,7 +2503,7 @@
   journal = {International Studies Quarterly},
   year = {1998},
   volume = {42},
-  pages = {109----130},
+  pages = {109--130},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2372,7 +2515,7 @@
   journal = {International Organization},
   year = {1994},
   volume = {48},
-  pages = {425----458},
+  pages = {425--458},
   number = {3},
   owner = {David},
   timestamp = {2012.06.14}
@@ -2380,11 +2523,11 @@
 
 @ARTICLE{mitchell02,
   author = {Mitchell, Sara M.},
-  title = {A Kantian System? Democracy and Third--Party Conflict Resolution},
+  title = {A Kantian System? Democracy and Third-Party Conflict Resolution},
   journal = {American Journal of Political Science},
   year = {2002},
   volume = {46},
-  pages = {749----759},
+  pages = {749--759},
   number = {4},
   owner = {david},
   timestamp = {2012.08.16}
@@ -2396,7 +2539,7 @@
   journal = {American Journal of Political Science},
   year = {2007},
   volume = {51},
-  pages = {721----737},
+  pages = {721--737},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2415,23 +2558,33 @@
 @ARTICLE{mo95,
   author = {Mo, Jongryn},
   title = {Domestic Institutions and International Bargaining: The Role of Agent
-	Veto in Two--Level Games},
+	Veto in Two-Level Games},
   journal = {American Political Science Review},
   year = {1995},
   volume = {89},
-  pages = {914----924},
+  pages = {914--924},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
 }
 
+@BOOK{mongecontractor03,
+  title = {Theories of Communication Networks},
+  publisher = {Oxford University Press},
+  year = {2003},
+  author = {Monge, Peter R. and Contractor, Noshir S.},
+  address = {Oxford},
+  owner = {David},
+  timestamp = {2012.11.14}
+}
+
 @ARTICLE{mooreshellman07,
   author = {Moore, Will H. and Shellman, Stephen M.},
-  title = {Whither Will They Go? A Global Study of Refugees' Destinations, 1965----1995},
+  title = {Whither Will They Go? A Global Study of Refugees' Destinations, 1965--1995},
   journal = {International Studies Quarterly},
   year = {2007},
   volume = {51},
-  pages = {811----834},
+  pages = {811--834},
   owner = {david},
   timestamp = {2012.09.25}
 }
@@ -2442,7 +2595,7 @@
   journal = {International Organization},
   year = {1997},
   volume = {51},
-  pages = {513----53},
+  pages = {513--53},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2455,7 +2608,7 @@
   journal = {International Organization},
   year = {1991},
   volume = {45},
-  pages = {19----56},
+  pages = {19--56},
   number = {1},
   owner = {David},
   timestamp = {2012.08.19}
@@ -2463,7 +2616,7 @@
 
 @BOOK{morgenthau93,
   title = {Politics Among Nations: The Struggle for Power and Peace},
-  publisher = {McGraw----Hill},
+  publisher = {McGraw--Hill},
   year = {1993},
   author = {Morgenthau, Hans J.},
   address = {Boston},
@@ -2479,7 +2632,7 @@
   journal = {American Political Science Review},
   year = {1952},
   volume = {46},
-  pages = {961----978},
+  pages = {961--978},
   number = {4},
   owner = {david},
   timestamp = {2012.07.06}
@@ -2491,7 +2644,7 @@
   journal = {American Political Science Review},
   year = {2007},
   volume = {101},
-  pages = {559----572},
+  pages = {559--572},
   number = {3},
   owner = {David},
   timestamp = {2012.08.13}
@@ -2504,7 +2657,7 @@
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {737----773},
+  pages = {737--773},
   number = {4},
   owner = {David},
   timestamp = {2012.09.04}
@@ -2526,7 +2679,7 @@
   journal = {American Political Science Review},
   year = {1971},
   volume = {65},
-  pages = {358----375},
+  pages = {358--375},
   number = {2},
   owner = {David},
   timestamp = {2012.08.23}
@@ -2538,7 +2691,7 @@
   journal = {Journal of Conflict Resolution},
   year = {1986},
   volume = {30},
-  pages = {685----715},
+  pages = {685--715},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2547,11 +2700,11 @@
 @ARTICLE{nooruddinsimmons09,
   author = {Nooruddin, Irfan and Simmons, Joel},
   title = {Openness, Uncertainty, and Social Spending: Implications for the
-	Globalization--Welfare State Debate},
+	Globalization-Welfare State Debate},
   journal = {International Studies Quarterly},
   year = {2009},
   volume = {53},
-  pages = {841----866},
+  pages = {841--866},
   number = {3},
   owner = {David},
   timestamp = {2012.09.04}
@@ -2564,7 +2717,7 @@
   journal = {Journal of Common Market Studies},
   year = {1992},
   volume = {30},
-  pages = {311----328},
+  pages = {311--328},
   number = {3},
   owner = {david},
   timestamp = {2012.07.10}
@@ -2577,7 +2730,7 @@
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {35----54},
+  pages = {35--54},
   number = {1},
   owner = {David},
   timestamp = {2012.08.01}
@@ -2599,7 +2752,7 @@
   journal = {Review of Economics and Statistics},
   year = {1966},
   volume = {48},
-  pages = {425----444},
+  pages = {425--444},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2612,7 +2765,7 @@
   journal = {Perspectives on Politics},
   year = {2009},
   volume = {7},
-  pages = {283----301},
+  pages = {283--301},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2635,7 +2788,7 @@
   journal = {Perspectives on Politics},
   year = {2009},
   volume = {7},
-  pages = {881----897},
+  pages = {881--897},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2647,19 +2800,19 @@
   journal = {Comparative Sociology},
   year = {2005},
   volume = {4},
-  pages = {451----477},
-  number = {3--4},
+  pages = {451--477},
+  number = {3-4},
   owner = {David},
   timestamp = {2012.08.12}
 }
 
 @ARTICLE{pahre98,
   author = {Pahre, Robert},
-  title = {Reactions and Reciprocity: Tariffs and Trade Liberalization in 1815----1914},
+  title = {Reactions and Reciprocity: Tariffs and Trade Liberalization in 1815--1914},
   journal = {Journal of Conflict Resolution},
   year = {1998},
   volume = {42},
-  pages = {467----492},
+  pages = {467--492},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2667,12 +2820,12 @@
 
 @ARTICLE{pahre97,
   author = {Pahre, Robert},
-  title = {Endogenous Domestic Institutions in Two----Level Games: Parliamentary
+  title = {Endogenous Domestic Institutions in Two--Level Games: Parliamentary
 	Oversight in the European Union},
   journal = {Journal of Conflict Resolution},
   year = {1997},
   volume = {41},
-  pages = {147----174},
+  pages = {147--174},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2684,7 +2837,7 @@
   journal = {Journal of Conflict Resolution},
   year = {1994},
   volume = {38},
-  pages = {326----352},
+  pages = {326--352},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2697,7 +2850,7 @@
   journal = {Perspectives on Politics},
   year = {2007},
   volume = {5},
-  pages = {503----514},
+  pages = {503--514},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2709,7 +2862,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {969----1000},
+  pages = {969--1000},
   number = {4},
   owner = {David},
   timestamp = {2012.08.13}
@@ -2727,11 +2880,11 @@
 
 @ARTICLE{pevehouse02,
   author = {Pevehouse, Jon C.},
-  title = {Democracy from the Outside--In? International Organizations and Democratization},
+  title = {Democracy from the Outside-In? International Organizations and Democratization},
   journal = {International Organization},
   year = {2002},
   volume = {56},
-  pages = {515----549},
+  pages = {515--549},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2743,7 +2896,7 @@
   journal = {Government and Opposition},
   year = {1992},
   volume = {27},
-  pages = {414----432},
+  pages = {414--432},
   number = {4},
   owner = {david},
   timestamp = {2012.07.10}
@@ -2756,7 +2909,7 @@
   journal = {Proceedings of the National Academy of Sciences},
   year = {2005},
   volume = {102},
-  pages = {7057----7062},
+  pages = {7057--7062},
   number = {20},
   owner = {David},
   timestamp = {2012.11.06}
@@ -2768,7 +2921,7 @@
   journal = {International Studies Quarterly},
   year = {2009},
   volume = {53},
-  pages = {149----174},
+  pages = {149--174},
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2780,7 +2933,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {169----203},
+  pages = {169--203},
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
@@ -2792,10 +2945,23 @@
   journal = {American Political Science Review},
   year = {1993},
   volume = {87},
-  pages = {115----132},
+  pages = {115--132},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{powerschoi12,
+  author = {Powers, Matthew and Choi, Seung-Whan},
+  title = {Does Transnational Terrorism Reduce Foreign Direct Investment? Business-Related
+	versus Non-Business-Related Terrorism},
+  journal = {Journal of Peace Research},
+  year = {2012},
+  volume = {49},
+  pages = {407-422},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.12.04}
 }
 
 @ARTICLE{przeworski88,
@@ -2804,7 +2970,7 @@
   journal = {American Political Science Review},
   year = {1988},
   volume = {82},
-  pages = {11----29},
+  pages = {11--29},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -2812,14 +2978,26 @@
 
 @ARTICLE{putnam88,
   author = {Putnam, Robert D.},
-  title = {Diplomacy and Domestic Politics: The Logic of Two--Level Games},
+  title = {Diplomacy and Domestic Politics: The Logic of Two-Level Games},
   journal = {International Organization},
   year = {1988},
   volume = {42},
-  pages = {427----60},
+  pages = {427--60},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{riouxvanbelle05,
+  author = {Rioux, Jean-S\'{e}bastien and Van Belle, Douglas A.},
+  title = {The Influence of ``Le Monde" Coverage on French Foreign Aid Allocations},
+  journal = {International Studies Quarterly},
+  year = {2005},
+  volume = {49},
+  pages = {481-502},
+  number = {3},
+  owner = {David},
+  timestamp = {2012.12.04}
 }
 
 @BOOK{rogowski89,
@@ -2838,7 +3016,7 @@
   journal = {International Organization},
   year = {1987},
   volume = {42},
-  pages = {203----223},
+  pages = {203--223},
   number = {2},
   owner = {David},
   timestamp = {2012.09.02}
@@ -2850,7 +3028,7 @@
   journal = {American Economic Review},
   year = {2004},
   volume = {94},
-  pages = {98----114},
+  pages = {98--114},
   number = {1},
   owner = {David},
   timestamp = {2012.09.02}
@@ -2867,8 +3045,8 @@
 }
 
 @INBOOK{rosenau66,
-  pages = {27----93},
-  title = {Pre--Theories and Theories of Foreign Policy},
+  pages = {27--93},
+  title = {Pre-Theories and Theories of Foreign Policy},
   publisher = {Northwestern University Press},
   year = {1966},
   editor = {Farrell, R. Barry},
@@ -2885,7 +3063,7 @@
   journal = {Journal of the American Statistical Association},
   year = {2007},
   volume = {102},
-  pages = {75----83},
+  pages = {75--83},
   number = {477},
   owner = {David},
   timestamp = {2012.09.25}
@@ -2898,7 +3076,7 @@
   journal = {The American Statistician},
   year = {1985},
   volume = {38},
-  pages = {33----38},
+  pages = {33--38},
   number = {1},
   owner = {David},
   timestamp = {2012.09.11}
@@ -2911,7 +3089,7 @@
   journal = {Biometrika},
   year = {1983},
   volume = {70},
-  pages = {41----55},
+  pages = {41--55},
   number = {1},
   owner = {David},
   timestamp = {2012.09.11}
@@ -2924,7 +3102,7 @@
   journal = {American Political Science Review},
   year = {2005},
   volume = {99},
-  pages = {389----400},
+  pages = {389--400},
   number = {3},
   owner = {David},
   timestamp = {2012.09.02}
@@ -2937,7 +3115,7 @@
   journal = {International Organization},
   year = {2004},
   volume = {58},
-  pages = {35----67},
+  pages = {35--67},
   number = {1},
   owner = {david},
   timestamp = {2012.07.03}
@@ -2950,7 +3128,7 @@
   journal = {Journal of Civil Rights and Economic Development},
   year = {1996},
   volume = {11},
-  pages = {271----305},
+  pages = {271--305},
   number = {2},
   owner = {david},
   timestamp = {2012.11.05}
@@ -2962,7 +3140,7 @@
   journal = {Journal of the American Statistical Association},
   year = {1986},
   volume = {81},
-  pages = {961----962},
+  pages = {961--962},
   number = {396},
   owner = {David},
   timestamp = {2012.09.04}
@@ -2974,7 +3152,7 @@
   journal = {Biometrics},
   year = {1973},
   volume = {29},
-  pages = {159----183},
+  pages = {159--183},
   number = {1},
   owner = {David},
   timestamp = {2012.09.04}
@@ -2987,7 +3165,7 @@
   journal = {Biometrics},
   year = {1973},
   volume = {29},
-  pages = {185----203},
+  pages = {185--203},
   number = {1},
   owner = {David},
   timestamp = {2012.09.04}
@@ -3000,7 +3178,7 @@
   journal = {Journal of the American Statistical Association},
   year = {2000},
   volume = {95},
-  pages = {573----585},
+  pages = {573--585},
   number = {450},
   owner = {David},
   timestamp = {2012.09.11}
@@ -3008,12 +3186,12 @@
 
 @ARTICLE{ruggie98,
   author = {Ruggie, John Gerard},
-  title = {What Makes the World Hang Together? Neo--Utilitarianism and the Social
+  title = {What Makes the World Hang Together? Neo-Utilitarianism and the Social
 	Constructivist Challenge},
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {855----885},
+  pages = {855--885},
   number = {4},
   owner = {david},
   timestamp = {2012.08.16}
@@ -3026,7 +3204,7 @@
   journal = {International Organization},
   year = {1993},
   volume = {47},
-  pages = {139----174},
+  pages = {139--174},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3039,7 +3217,7 @@
   journal = {World Politics},
   year = {1983},
   volume = {35},
-  pages = {261----285},
+  pages = {261--285},
   number = {2},
   owner = {David},
   timestamp = {2012.07.24}
@@ -3052,7 +3230,7 @@
   journal = {International Organization},
   year = {1982},
   volume = {36},
-  pages = {379----415},
+  pages = {379--415},
   number = {2},
   owner = {David},
   timestamp = {2012.08.01}
@@ -3069,6 +3247,18 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{rutinwa96,
+  author = {Rutinwa, Bonaventure},
+  title = {The Tanzanian Government's Response to the Rwandan Emergency},
+  journal = {Journal of Refugee Studies},
+  year = {1996},
+  volume = {9},
+  pages = {291--302},
+  number = {3},
+  owner = {david},
+  timestamp = {2012.12.15}
+}
+
 @ARTICLE{saiegh05,
   author = {Saiegh, Sebastian M.},
   title = {Do Countries Have a ``Democratic Advantage"? Political Institutions,
@@ -3076,7 +3266,7 @@
   journal = {Comparative Political Studies},
   year = {2005},
   volume = {38},
-  pages = {366----387},
+  pages = {366--387},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -3089,7 +3279,7 @@
   journal = {American Journal of Political Science},
   year = {2008},
   volume = {52},
-  pages = {787----801},
+  pages = {787--801},
   number = {4},
   owner = {david},
   timestamp = {2012.10.23}
@@ -3101,10 +3291,22 @@
   journal = {World Politics},
   year = {2007},
   volume = {59},
-  pages = {217----242},
+  pages = {217--242},
   number = {2},
   owner = {David},
   timestamp = {2012.09.26}
+}
+
+@ARTICLE{salgled06,
+  author = {Salehyan, Idean AND Gleditsch, Kristian Skrede},
+  title = {Refugees and the Spread of Civil War},
+  journal = {International Organization},
+  year = {2006},
+  volume = {60},
+  pages = {277--297},
+  number = {2},
+  owner = {david},
+  timestamp = {2012.12.15}
 }
 
 @ARTICLE{sambanis04,
@@ -3113,7 +3315,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2004},
   volume = {48},
-  pages = {814----858},
+  pages = {814--858},
   number = {6},
   owner = {David},
   timestamp = {2012.06.18}
@@ -3126,7 +3328,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2001},
   volume = {45},
-  pages = {259----282},
+  pages = {259--282},
   number = {3},
   owner = {David},
   timestamp = {2012.06.18}
@@ -3158,7 +3360,7 @@
   journal = {American Journal of Political Science},
   year = {2004},
   volume = {48},
-  pages = {662----674},
+  pages = {662--674},
   number = {4},
   owner = {David},
   timestamp = {2012.09.04}
@@ -3171,7 +3373,7 @@
   journal = {Review of Economics and Statistics},
   year = {2001},
   volume = {83},
-  pages = {133----145},
+  pages = {133--145},
   number = {1},
   owner = {David},
   timestamp = {2012.09.25}
@@ -3179,11 +3381,11 @@
 
 @ARTICLE{schroeder94,
   author = {Schroeder, Paul},
-  title = {Historical Reality vs. Neo--Realist Theory},
+  title = {Historical Reality vs. Neo-Realist Theory},
   journal = {International Security},
   year = {1994},
   volume = {19},
-  pages = {108----148},
+  pages = {108--148},
   number = {1},
   owner = {David},
   timestamp = {2012.08.15}
@@ -3196,7 +3398,7 @@
   journal = {International Organization},
   year = {1999},
   volume = {53},
-  pages = {233----266},
+  pages = {233--266},
   number = {2},
   owner = {David},
   timestamp = {2012.08.16}
@@ -3208,7 +3410,7 @@
   journal = {American Political Science Review},
   year = {1998},
   volume = {92},
-  pages = {829----844},
+  pages = {829--844},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -3220,7 +3422,7 @@
   journal = {International Security},
   year = {1994},
   volume = {19},
-  pages = {72----107},
+  pages = {72--107},
   number = {1},
   owner = {David},
   timestamp = {2012.08.15}
@@ -3237,7 +3439,7 @@
 }
 
 @BOOK{shadishetal02,
-  title = {Experimental and Quasi--Experimental Designs for Generalized Causal
+  title = {Experimental and Quasi-Experimental Designs for Generalized Causal
 	Inference},
   publisher = {Wadsworth},
   year = {2002},
@@ -3254,7 +3456,7 @@
   journal = {International Studies Quarterly},
   year = {2010},
   volume = {54},
-  pages = {1123----1141},
+  pages = {1123--1141},
   number = {4},
   owner = {David},
   timestamp = {2012.08.13}
@@ -3262,12 +3464,12 @@
 
 @ARTICLE{sigalas10,
   author = {Sigalas, Emmanuel},
-  title = {Cross--border Mobility and European Identity: The Effectiveness of
+  title = {Cross-border Mobility and European Identity: The Effectiveness of
 	Intergroup Contact During the ERASMUS Year Abroad},
   journal = {European Union Politics},
   year = {2010},
   volume = {11},
-  pages = {241----265},
+  pages = {241--265},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3280,7 +3482,7 @@
   journal = {American Political Science Review},
   year = {1999},
   volume = {93},
-  pages = {279----297},
+  pages = {279--297},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3293,7 +3495,7 @@
   journal = {International Studies Perspectives},
   year = {2010},
   volume = {11},
-  pages = {148----171},
+  pages = {148--171},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3315,7 +3517,7 @@
   journal = {International Organization},
   year = {2000},
   volume = {54},
-  pages = {573----602},
+  pages = {573--602},
   number = {3},
   owner = {David},
   timestamp = {2012.06.15}
@@ -3328,7 +3530,7 @@
   journal = {American Political Science Review},
   year = {2000},
   volume = {94},
-  pages = {819----835},
+  pages = {819--835},
   number = {4},
   owner = {David},
   timestamp = {2012.10.02}
@@ -3352,7 +3554,7 @@
   journal = {American Political Science Review},
   year = {2004},
   volume = {98},
-  pages = {171----189},
+  pages = {171-189},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3364,7 +3566,7 @@
   journal = {American Political Science Review},
   year = {2005},
   volume = {99},
-  pages = {623----631},
+  pages = {623--631},
   number = {4},
   owner = {David},
   timestamp = {2012.10.02}
@@ -3372,7 +3574,7 @@
 
 @INBOOK{singer69,
   chapter = {The Incompleat Theorist: Insight Without Evidence},
-  pages = {63----86},
+  pages = {63--86},
   title = {Contending Approaches to International Politics},
   publisher = {Princeton University Press},
   year = {1969},
@@ -3390,7 +3592,7 @@
   journal = {European Journal of International Relations},
   year = {2004},
   volume = {10},
-  pages = {95----136},
+  pages = {95--136},
   number = {1},
   owner = {David},
   timestamp = {2012.08.23}
@@ -3403,7 +3605,7 @@
   journal = {American Political Science Review},
   year = {1985},
   volume = {79},
-  pages = {923----942},
+  pages = {923--942},
   number = {4},
   owner = {David},
   timestamp = {2012.08.17}
@@ -3415,7 +3617,7 @@
   journal = {Perspectives on Politics},
   year = {2012},
   volume = {10},
-  pages = {243----264},
+  pages = {243--264},
   number = {2},
   owner = {David},
   timestamp = {2012.06.18}
@@ -3427,7 +3629,7 @@
   journal = {International Security},
   year = {1997},
   volume = {22},
-  pages = {5----53},
+  pages = {5--53},
   number = {1},
   owner = {David},
   timestamp = {2012.10.17}
@@ -3439,7 +3641,7 @@
   journal = {International Organization},
   year = {1982},
   volume = {36},
-  pages = {299----324},
+  pages = {299--324},
   number = {2},
   owner = {David},
   timestamp = {2012.06.15}
@@ -3451,7 +3653,7 @@
   journal = {International Organization},
   year = {2005},
   volume = {99},
-  pages = {611----622},
+  pages = {611--622},
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
@@ -3459,12 +3661,12 @@
 
 @ARTICLE{steinberg02,
   author = {Steinberg, Richard H.},
-  title = {In the Shadow of Law or Power? Consensus--Based Bargaining in the
+  title = {In the Shadow of Law or Power? Consensus-Based Bargaining in the
 	GATT/WTO},
   journal = {International Organization},
   year = {2002},
   volume = {56},
-  pages = {339----374},
+  pages = {339--374},
   number = {2},
   owner = {David},
   timestamp = {2012.06.14}
@@ -3476,7 +3678,7 @@
   journal = {The Review of Economic Studies},
   year = {1941},
   volume = {9},
-  pages = {58----73},
+  pages = {58--73},
   number = {1},
   owner = {David},
   timestamp = {2012.09.04}
@@ -3484,12 +3686,12 @@
 
 @ARTICLE{stoneetal08,
   author = {Stone, Randall W. and Slantchev, Branislav L. and London, Tamar R.},
-  title = {Choosing How to Cooperate: A Repeated Public--Goods Model of International
+  title = {Choosing How to Cooperate: A Repeated Public-Goods Model of International
 	Relations},
   journal = {International Studies Quarterly},
   year = {2008},
   volume = {52},
-  pages = {335----362},
+  pages = {335--362},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3501,7 +3703,7 @@
   journal = {International Studies Quarterly},
   year = {2010},
   volume = {54},
-  pages = {241----265},
+  pages = {241--265},
   number = {2},
   owner = {David},
   timestamp = {2012.08.23}
@@ -3513,7 +3715,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2005},
   volume = {49},
-  pages = {383----407},
+  pages = {383--407},
   number = {3},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3531,11 +3733,11 @@
 
 @ARTICLE{thielemanntorun06,
   author = {Thielemann, Eiko R. and Dewan, Torun},
-  title = {The Myth of Free--riding: Refugee Protection and Implicit Burden--sharing},
+  title = {The Myth of Free-riding: Refugee Protection and Implicit Burden-sharing},
   journal = {West European Politics},
   year = {2006},
   volume = {29},
-  pages = {351----369},
+  pages = {351--369},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3559,7 +3761,7 @@
   journal = {International Organization},
   year = {2006},
   volume = {60},
-  pages = {1--34},
+  pages = {1-34},
   number = {1},
   owner = {David},
   timestamp = {2012.08.01}
@@ -3571,10 +3773,18 @@
   journal = {European Journal of International Law},
   year = {1999},
   volume = {99},
-  pages = {655--678},
+  pages = {655-678},
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
+}
+
+@UNPUBLISHED{unhcr11,
+  author = {UNHCR},
+  title = {UNHCR Global Report 2011},
+  year = {2011},
+  owner = {david},
+  timestamp = {2012.12.15}
 }
 
 @BOOK{vasquez09,
@@ -3595,7 +3805,7 @@
   journal = {American Political Science Review},
   year = {1997},
   volume = {91},
-  pages = {899--912},
+  pages = {899-912},
   number = {4},
   owner = {David},
   timestamp = {2012.08.15}
@@ -3608,10 +3818,23 @@
   journal = {International Studies Quarterly},
   year = {2008},
   volume = {52},
-  pages = {295--314},
+  pages = {295-314},
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{voeten08,
+  author = {Voeten, Erik},
+  title = {The Impartiality of International Judges: Evidence from the European
+	Court of Human Rights},
+  journal = {American Political Science Review},
+  year = {2008},
+  volume = {102},
+  pages = {417--433},
+  number = {4},
+  owner = {david},
+  timestamp = {2012.12.15}
 }
 
 @ARTICLE{vreeland08,
@@ -3620,7 +3843,7 @@
   journal = {Journal of Conflict Resolution},
   year = {2008},
   volume = {52},
-  pages = {401--425},
+  pages = {401-425},
   number = {3},
   owner = {David},
   timestamp = {2012.08.23}
@@ -3633,7 +3856,7 @@
   journal = {International Organization},
   year = {1998},
   volume = {52},
-  pages = {687--727},
+  pages = {687-727},
   number = {4},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3641,11 +3864,11 @@
 
 @ARTICLE{wallerstein89,
   author = {Wallerstein, Immanuel},
-  title = {The French Revolution as a World--Historical Event},
+  title = {The French Revolution as a World-Historical Event},
   journal = {Social Research},
   year = {1989},
   volume = {56},
-  pages = {33--52},
+  pages = {33-52},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3657,7 +3880,7 @@
   journal = {International Security},
   year = {1999},
   volume = {23},
-  pages = {5--48},
+  pages = {5-48},
   number = {4},
   owner = {David},
   timestamp = {2012.08.16}
@@ -3679,7 +3902,7 @@
   journal = {International Organization},
   year = {1997},
   volume = {51},
-  pages = {335--364},
+  pages = {335-364},
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
@@ -3687,7 +3910,7 @@
 
 @BOOK{waltz79,
   title = {Theory of International Politics},
-  publisher = {McGraw--Hill},
+  publisher = {McGraw-Hill},
   year = {1979},
   author = {Waltz, Kenneth N.},
   address = {Boston},
@@ -3721,7 +3944,7 @@
   journal = {International Organization},
   year = {2008},
   volume = {62},
-  pages = {35--64},
+  pages = {35-64},
   number = {1},
   owner = {David},
   timestamp = {2012.08.12}
@@ -3734,7 +3957,7 @@
   journal = {International Organization},
   year = {2001},
   volume = {55},
-  pages = {1019--1041},
+  pages = {1019-1041},
   number = {4},
   owner = {david},
   timestamp = {2012.07.16}
@@ -3757,7 +3980,7 @@
   journal = {International Organization},
   year = {1992},
   volume = {46},
-  pages = {391--425},
+  pages = {391-425},
   number = {2},
   owner = {David},
   timestamp = {2012.08.20}
@@ -3770,10 +3993,23 @@
   journal = {Journal of Conflict Resolution},
   year = {2011},
   volume = {55},
-  pages = {33--59},
+  pages = {33-59},
   number = {1},
   owner = {David},
   timestamp = {2012.06.15}
+}
+
+@ARTICLE{winters10,
+  author = {Winters, Matthew S.},
+  title = {Choosing to Target: What Types of Countries Get Different Types of
+	World Bank Projects},
+  journal = {World Politics},
+  year = {2010},
+  volume = {62},
+  pages = {422--458},
+  number = {3},
+  owner = {david},
+  timestamp = {2012.12.16}
 }
 
 @ARTICLE{wolfers52,
@@ -3782,7 +4018,7 @@
   journal = {Political Science Quarterly},
   year = {1952},
   volume = {67},
-  pages = {481--502},
+  pages = {481-502},
   number = {4},
   owner = {david},
   timestamp = {2012.07.06}
@@ -3794,7 +4030,7 @@
   journal = {Politics and Society},
   year = {2006},
   volume = {34},
-  pages = {307--342},
+  pages = {307-342},
   number = {3},
   owner = {David},
   timestamp = {2012.07.23}
@@ -3807,7 +4043,7 @@
   journal = {International Studies Quarterly},
   year = {2008},
   volume = {52},
-  pages = {825--854},
+  pages = {825-854},
   number = {4},
   owner = {David},
   timestamp = {2012.06.14}
