@@ -253,6 +253,56 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{beardsley10,
+  author = {Beardsley, Kyle},
+  title = {Pain, Pressure and Political Cover: Explaining Mediation Incidence},
+  journal = {Journal of Peace Research},
+  year = {2010},
+  volume = {47},
+  pages = {395--406},
+  number = {4},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{beardsley09,
+  author = {Beardsley, Kyle},
+  title = {Intervention Without Leverage: The Political Determinants of Weak
+	Mediation},
+  journal = {International Interactions},
+  year = {2009},
+  volume = {35},
+  pages = {272--297},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{benson11,
+  author = {Benson, Brett V.},
+  title = {Unpacking Alliances: Deterrent and Compellent Alliances and their
+	Relationship with Conflict, 1816--2000},
+  journal = {Journal of Politics},
+  year = {2011},
+  volume = {73},
+  pages = {1111--1127},
+  number = {4},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{bercovitchschneider00,
+  author = {Bercovitch, Jacob and Schneider, Gerald},
+  title = {Who Mediates? The Political Economy of International Conflict Management},
+  journal = {Journal of Peace Research},
+  year = {2000},
+  volume = {37},
+  pages = {145--165},
+  number = {2},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{boehmeretal04,
   author = {Boehmer, Charles and Gartzke, Erik and Nordstrom, Timothy},
   title = {Do Intergovernmental Organizations Promote Peace?},
@@ -309,6 +359,47 @@
   address = {San Francisco},
   owner = {david},
   timestamp = {2012.06.20}
+}
+
+@ARTICLE{braithwaitelemke11,
+  author = {Braithwaite, Alex and Lemke, Douglas},
+  title = {Unpacking Escalation},
+  journal = {Conflict Management and Peace Science},
+  year = {2011},
+  volume = {28},
+  pages = {111--123},
+  number = {2},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@INBOOK{bremer00,
+  chapter = {2: Who Fights Whom, When, Where, and Why?},
+  pages = {23--36},
+  title = {What Do We Know About War?},
+  publisher = {Rowman and Littlefield},
+  year = {2000},
+  editor = {Vasquez, John A.},
+  author = {Bremer, Stuart A.},
+  address = {Lanham, MD},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.04}
+}
+
+@ARTICLE{bremer92,
+  author = {Bremer, Stuart A.},
+  title = {Dangerous Dyads: Conditions Affecting the Likelihood of Interstate
+	War, 1816--1965},
+  journal = {Journal of Conflict Resolution},
+  year = {1992},
+  volume = {36},
+  pages = {309--341},
+  number = {2},
+  owner = {David},
+  quality = {1},
+  timestamp = {2012.12.26}
 }
 
 @ARTICLE{brochmanhensel11,
@@ -378,6 +469,19 @@
   address = {Cambridge},
   owner = {David},
   timestamp = {2012.08.10}
+}
+
+@ARTICLE{buhaugetal08,
+  author = {Buhaug, Halvard and Cederman, Lars-Erik and R{\o}d, Jan Ketil},
+  title = {Disaggregating Ethno-Nationalist Civil Wars: A Dyadic Test of Exclusion
+	Theory},
+  journal = {International Organization},
+  year = {2008},
+  volume = {62},
+  pages = {535--551},
+  number = {4},
+  owner = {david},
+  timestamp = {2013.01.06}
 }
 
 @ARTICLE{buhauggates02,
@@ -510,7 +614,7 @@
 @ARTICLE{chofowler06,
   author = {Cho, Wendy K. Tam and Fowler, James H.},
   title = {Legislative Success in a Small World: Social Network Analysis and
-	the Dynamics of Congressional Legisation},
+	the Dynamics of Congressional Legislation},
   journal = {Journal of Politics},
   year = {2006},
   volume = {71},
@@ -719,6 +823,16 @@
   timestamp = {2012.09.25}
 }
 
+@BOOK{diehldruckman10,
+  title = {Evaluating Peace Operations},
+  publisher = {Lynne Rienner Publications},
+  year = {2010},
+  author = {Diehl, Paul F. and Druckman, Daniel},
+  address = {Boulder},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
 @BOOK{diehlgoertz01,
   title = {War and Peace in International Rivalry},
   publisher = {University of Michigan Press},
@@ -750,6 +864,19 @@
   number = {3},
   owner = {david},
   timestamp = {2012.08.16}
+}
+
+@ARTICLE{dixon09,
+  author = {Dixon, Jeffrey},
+  title = {What Causes Civil Wars? Integrating Quantitative Research Findings},
+  journal = {International Studies Review},
+  year = {2009},
+  volume = {11},
+  pages = {707--735},
+  number = {4},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.05}
 }
 
 @BOOK{downs57,
@@ -909,6 +1036,30 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{fearonlaitin03,
+  author = {Fearon, James D. and Laitin, David D.},
+  title = {Ethnicity, Insurgency, and Civil War},
+  journal = {The American Political Science Review},
+  year = {2003},
+  volume = {97},
+  pages = {75--90},
+  number = {1},
+  owner = {david},
+  timestamp = {2013.01.06}
+}
+
+@ARTICLE{fearonlaitin00,
+  author = {Fearon, James D. and Laitin, David D.},
+  title = {Violence and the Social Construction of Ethnic Identity},
+  journal = {International Organization},
+  year = {2000},
+  volume = {54},
+  pages = {845--877},
+  number = {4},
+  owner = {david},
+  timestamp = {2013.01.06}
+}
+
 @ARTICLE{fearonlaitin96,
   author = {Fearon, James D. and Laitin, David D.},
   title = {Explaining Interethnic Cooperation},
@@ -963,6 +1114,20 @@
   number = {4},
   owner = {David},
   timestamp = {2012.08.01}
+}
+
+@ARTICLE{florea12,
+  author = {Florea, Adrian},
+  title = {Where Do We Go From Here? Conceptual, Theoretical, and Methodological
+	Gaps in the Large-N Civil War Research Program},
+  journal = {International Studies Review},
+  year = {2012},
+  volume = {14},
+  pages = {78--98},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.05}
 }
 
 @ARTICLE{fordhammckeown03,
@@ -1047,7 +1212,7 @@
 
 @ARTICLE{gartner11,
   author = {Gartner, Scott S.},
-  title = {On Behalf of a Greatful Nation: Conventionalized Images of Loss and
+  title = {On Behalf of a Grateful Nation: Conventionalized Images of Loss and
 	Individual Opinion Change in War},
   journal = {International Studies Quarterly},
   year = {2011},
@@ -1093,6 +1258,18 @@
   number = {2},
   owner = {David},
   timestamp = {2012.06.25}
+}
+
+@BOOK{gibler12,
+  title = {The Territorial Peace: Borders, State Development and International
+	Conflict},
+  publisher = {Cambridge University Press},
+  year = {2012},
+  author = {Gibler, Douglas M.},
+  address = {Cambridge},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{gilllaw89,
@@ -1167,6 +1344,18 @@
   timestamp = {2012.08.20}
 }
 
+@ARTICLE{goertzregan97,
+  author = {Goertz, Gary and Regan, Patrick},
+  title = {Conflict Management in Enduring Rivalries},
+  journal = {International Interactions},
+  year = {1997},
+  volume = {22},
+  pages = {33--63},
+  number = {4},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
 @BOOK{goldsmithposner05,
   title = {The Limits of International Law},
   publisher = {Oxford University Press},
@@ -1227,6 +1416,30 @@
   number = {3},
   owner = {David},
   timestamp = {2012.08.16}
+}
+
+@ARTICLE{greig05,
+  author = {Greig, J. Michael},
+  title = {Stepping Into the Fray: When Do Mediators Mediate?},
+  journal = {American Journal of Political Science},
+  year = {2005},
+  volume = {49},
+  pages = {249--266},
+  number = {2},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{greigregan08,
+  author = {Greig, J. Michael and Regan, Patrick},
+  title = {When Do They Say Yes? An Analysis of the Willingness to Offer and
+	Accept Mediation in Civil Wars},
+  journal = {International Studies Quarterly},
+  year = {2008},
+  volume = {52},
+  pages = {759--781},
+  owner = {david},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{grieco88,
@@ -1459,6 +1672,33 @@
   timestamp = {2012.08.23}
 }
 
+@ARTICLE{henselmitchell07,
+  author = {Hensel, Paul R. and Mitchell, Sara M.},
+  title = {Issue Indivisibility and Territorial Claims},
+  journal = {GeoJournal},
+  year = {2007},
+  volume = {64},
+  pages = {275--285},
+  number = {4},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{henseletal08,
+  author = {Hensel, Paul R. and Mitchell, Sara M. and Sowers II, Thomas and Thyne,
+	Clayton},
+  title = {Bones of Contention: Comparing Territorial, Maritime, and River Issues},
+  journal = {Journal of Conflict Resolution},
+  year = {2008},
+  volume = {52},
+  pages = {117--143},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{herz50,
   author = {Herz, John H.},
   title = {Idealist Internationalism and the Security Dilemma},
@@ -1558,6 +1798,18 @@
   timestamp = {2012.11.13}
 }
 
+@ARTICLE{hoppman95,
+  author = {Hoppman, P. Terrence},
+  title = {Two Paradigms of International Negotiation: Bargaining and Problem
+	Solving},
+  journal = {Annals of the American Academy of Political and Social Science},
+  year = {1995},
+  volume = {542},
+  pages = {24--47},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{hornmavroidis01,
   author = {Horn, Henrik and Mavroidis, Petros C.},
   title = {Economic and Legal Aspects of the Most-Favored-Nation Clause},
@@ -1567,6 +1819,17 @@
   pages = {233--279},
   owner = {David},
   timestamp = {2012.09.02}
+}
+
+@BOOK{horowitz85,
+  title = {Ethnic Groups in Conflict},
+  publisher = {University of California Press},
+  year = {1985},
+  author = {Horowitz, Donald L.},
+  address = {Berkeley, CA},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.05}
 }
 
 @ARTICLE{hug02,
@@ -1580,6 +1843,30 @@
   number = {2},
   owner = {David},
   timestamp = {2012.08.12}
+}
+
+@ARTICLE{hutchisongibler07,
+  author = {Hutchison, Marc L. and Gibler, Douglas M.},
+  title = {Political Tolerance and Territorial Threat: A Cross-National Study},
+  journal = {Journal of Politics},
+  year = {2007},
+  volume = {69},
+  pages = {128--142},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@BOOK{huth96,
+  title = {Standing Your Ground: Territorial Disputes and International Conflict},
+  publisher = {University of Michigan Press},
+  year = {1996},
+  author = {Huth, Paul K.},
+  address = {Ann Arbor},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.04}
 }
 
 @ARTICLE{huth88,
@@ -1862,6 +2149,19 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{kocs95,
+  author = {Kocs, Stephen},
+  title = {Territorial Disputes and Interstate War, 1945--1987},
+  journal = {Journal of Politics},
+  year = {1995},
+  volume = {57},
+  pages = {159--175},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{koh97,
   author = {Koh, Harold},
   title = {Why Do Nations Obey International Law?},
@@ -2002,6 +2302,33 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{leeds03,
+  author = {Leeds, Brett Ashley},
+  title = {Do Alliances Deter Aggression? The Influence of Military Alliances
+	on the Initiation of Militarized Interstate Dispute},
+  journal = {American Journal of Political Science},
+  year = {2003},
+  volume = {47},
+  pages = {427--439},
+  number = {3},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{leedsetal09,
+  author = {Leeds, Brett Ashley and Long, Andrew G. and Mitchell, Sara McLaughlin},
+  title = {Reevaluating Alliance Reliability: Specific Threats, Specific Promises},
+  journal = {Journal of Conflict Resolution},
+  year = {2009},
+  volume = {53},
+  pages = {461--476},
+  number = {2},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{leedsetal09,
   author = {Leeds, Brett Ashley and Mattes, Micheal and Vogel, Jeremy S.},
   title = {Interests, Institutions, and the Reliability of International Commitments},
@@ -2021,6 +2348,19 @@
   author = {Legro, Jeffrey},
   owner = {david},
   timestamp = {2012.08.16}
+}
+
+@ARTICLE{leng83,
+  author = {Leng, Russel J.},
+  title = {When Will They Ever Learn? Coercive Bargaining in Recurrent Crises},
+  journal = {Journal of Conflict Resolution},
+  year = {1983},
+  volume = {27},
+  pages = {379--419},
+  number = {3},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{leventoglu08,
@@ -2064,7 +2404,7 @@
   title = {Causes of War},
   publisher = {Wiley-Blackwell},
   year = {2010},
-  author = {Levy, Jack S. and Thompson, Wiliam R.},
+  author = {Levy, Jack S. and Thompson, William R.},
   address = {Oxford},
   owner = {David},
   quality = {1},
@@ -2193,7 +2533,7 @@
 }
 
 @ARTICLE{mansfieldetal00,
-  author = {Manfield, Edward D. and Milner, Helen V. and Rosendorff, B. Peter},
+  author = {Mansfield, Edward D. and Milner, Helen V. and Rosendorff, B. Peter},
   title = {Free to Trade: Democracies, Autocracies, and International Trade},
   journal = {American Political Science Review},
   year = {2000},
@@ -2248,6 +2588,20 @@
   number = {1},
   owner = {David},
   timestamp = {2012.08.16}
+}
+
+@ARTICLE{maoz89,
+  author = {Maoz, Zeev},
+  title = {Joining the Club of Nations: Political Development and International
+	Conflict},
+  journal = {International Studies Quarterly},
+  year = {1989},
+  volume = {33},
+  pages = {199--231},
+  number = {2},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{maozrussett93,
@@ -2673,6 +3027,18 @@
   timestamp = {2012.08.10}
 }
 
+@ARTICLE{mueller00,
+  author = {Mueller, John},
+  title = {The Banality of Ethnic War},
+  journal = {International Security},
+  year = {2000},
+  volume = {25},
+  pages = {42--70},
+  number = {1},
+  owner = {david},
+  timestamp = {2013.01.06}
+}
+
 @ARTICLE{mueller71,
   author = {Mueller, John E.},
   title = {Trends in Popular Support for the Wars in Korea and Vietnam},
@@ -2779,6 +3145,19 @@
   address = {Chicago},
   owner = {David},
   timestamp = {2012.08.16}
+}
+
+@ARTICLE{owsiak12,
+  author = {Owsiak, Andrew P.},
+  title = {Signing Up for Peace: International Boundary Agreements, Democracy,
+	and Militarized Interstate Conflict},
+  journal = {International Studies Quarterly},
+  year = {2012},
+  volume = {56},
+  pages = {51--66},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{pahre09,
@@ -2988,6 +3367,45 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{raslerthompson00,
+  author = {Rasler, Karen and Thompson, William R.},
+  title = {Explaining Rivalry Escalation to War: Space, Position, and Contiguity
+	in the Major Power Subsystem},
+  journal = {International Studies Quarterly},
+  year = {2000},
+  volume = {44},
+  pages = {503--530},
+  number = {3},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{reed00,
+  author = {Reed, William},
+  title = {A Unified Statistical Model of Conflict Onset and Escalation},
+  journal = {American Journal of Political Science},
+  year = {2000},
+  volume = {44},
+  pages = {84--93},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{richmond98,
+  author = {Richmond, Oliver},
+  title = {Devious Objectives and Disputants' View of International Mediation:
+	A Theoretical Framework},
+  journal = {Journal of Peace Research},
+  year = {1998},
+  volume = {35},
+  pages = {707--722},
+  number = {6},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{riouxvanbelle05,
   author = {Rioux, Jean-S\'{e}bastien and Van Belle, Douglas A.},
   title = {The Influence of ``Le Monde" Coverage on French Foreign Aid Allocations},
@@ -3032,6 +3450,19 @@
   number = {1},
   owner = {David},
   timestamp = {2012.09.02}
+}
+
+@ARTICLE{rose98,
+  author = {Rose, Gideon},
+  title = {Review: Neoclassical Realism and Theories of Foreign Policy},
+  journal = {World Politics},
+  year = {1998},
+  volume = {51},
+  pages = {144--172},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2012.12.24}
 }
 
 @BOOK{rosen05,
@@ -3123,7 +3554,7 @@
 
 @ARTICLE{rubensteinschultz96,
   author = {Rubenstein, Kim and Schultz, Jenny},
-  title = {Bringing Law and Order to International Trade: Adminstrative Law
+  title = {Bringing Law and Order to International Trade: Administrative Law
 	Principles and the GATT/WTO},
   journal = {Journal of Civil Rights and Economic Development},
   year = {1996},
@@ -3332,6 +3763,19 @@
   number = {3},
   owner = {David},
   timestamp = {2012.06.18}
+}
+
+@ARTICLE{sample97,
+  author = {Sample, Susan G.},
+  title = {Arms Races and Dispute Escalation: Resolving the Debate},
+  journal = {Journal of Peace Research},
+  year = {1997},
+  volume = {34},
+  pages = {7--22},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
 }
 
 @BOOK{schelling66,
@@ -3767,6 +4211,42 @@
   timestamp = {2012.08.01}
 }
 
+@ARTICLE{thompson01,
+  author = {Thompson, William R.},
+  title = {Identifying Rivals and Rivalries in World Politics},
+  journal = {International Studies Quarterly},
+  year = {2001},
+  volume = {45},
+  pages = {557--586},
+  number = {4},
+  owner = {David},
+  quality = {1},
+  timestamp = {2012.12.26}
+}
+
+@ARTICLE{tirdiehl02,
+  author = {Tir, Jaroslav and Diehl, Paul F.},
+  title = {Geographic Dimensions of Enduring Rivalries},
+  journal = {Political Geography},
+  year = {2002},
+  volume = {21},
+  pages = {263--286},
+  owner = {david},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{toft02,
+  author = {Toft, Monica Duffy},
+  title = {Indivisible Territory, Geographic Concentration, and Ethnic War},
+  journal = {Security Studies},
+  year = {2002},
+  volume = {12},
+  pages = {82--119},
+  number = {2},
+  owner = {david},
+  timestamp = {2013.01.06}
+}
+
 @ARTICLE{trachtman99,
   author = {Trachtman, Joel P.},
   title = {Bananas, Direct Effect and Compliance},
@@ -3809,6 +4289,32 @@
   number = {4},
   owner = {David},
   timestamp = {2012.08.15}
+}
+
+@ARTICLE{vasquezhenehan01,
+  author = {Vasquez, John A. and Henehan, Marie T.},
+  title = {Territorial Disputes and the Probability of War, 1816--1992},
+  journal = {Journal of Peace Research},
+  year = {2001},
+  volume = {38},
+  pages = {123--138},
+  number = {2},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{vasquezvaleriano10,
+  author = {Vasquez, John A. and Valeriano, Brandon},
+  title = {Classification of Interstate Wars},
+  journal = {Journal of Politics},
+  year = {2010},
+  volume = {72},
+  pages = {292--309},
+  number = {2},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{vinci08,
@@ -3862,6 +4368,33 @@
   timestamp = {2012.08.12}
 }
 
+@ARTICLE{wallensteen84,
+  author = {Wallensteen, Peter},
+  title = {Universalism vs. Particularism: On the Limits of Major Power Order},
+  journal = {Journal of Peace Research},
+  year = {1984},
+  volume = {21},
+  pages = {243--257},
+  number = {3},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
+@ARTICLE{wallensteen81,
+  author = {Wallensteen, Peter},
+  title = {Incompatibility, Confrontation, and War: Four Models and Three Historical
+	Systems, 1816--1976},
+  journal = {Journal of Peace Research},
+  year = {1981},
+  volume = {18},
+  pages = {57--90},
+  number = {1},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.07}
+}
+
 @ARTICLE{wallerstein89,
   author = {Wallerstein, Immanuel},
   title = {The French Revolution as a World-Historical Event},
@@ -3894,6 +4427,30 @@
   address = {Ithaca, NY},
   owner = {David},
   timestamp = {2012.08.15}
+}
+
+@ARTICLE{walter06,
+  author = {Walter, Barbara F.},
+  title = {Building Reputation: Why Governments Fight Some Separatists but Not
+	Others},
+  journal = {American Journal of Political Science},
+  year = {2006},
+  volume = {50},
+  pages = {313--330},
+  number = {2},
+  owner = {david},
+  timestamp = {2013.01.06}
+}
+
+@ARTICLE{walter02,
+  author = {Walter, Barbara F.},
+  title = {Re-Conceptualizing Conflict Resolution as a Three-Stage Process},
+  journal = {International Negotiation},
+  year = {2002},
+  volume = {7},
+  pages = {299--311},
+  owner = {david},
+  timestamp = {2013.01.07}
 }
 
 @ARTICLE{walter97,
@@ -3997,6 +4554,19 @@
   number = {1},
   owner = {David},
   timestamp = {2012.06.15}
+}
+
+@ARTICLE{wimmermin09,
+  author = {Wimmer, Andreas and Min, Brian},
+  title = {The Location and Purpose of Wars Around the World: A New Global Dataset},
+  journal = {International Interactions},
+  year = {2009},
+  volume = {35},
+  pages = {390--417},
+  number = {4},
+  owner = {David},
+  quality = {1},
+  timestamp = {2013.01.04}
 }
 
 @ARTICLE{winters10,
